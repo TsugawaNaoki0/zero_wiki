@@ -6,7 +6,6 @@ import datetime
 import urllib.request, urllib.error
 import csv
 import requests
-import feedparser
 import os
 from email.mime.text import MIMEText
 import smtplib
