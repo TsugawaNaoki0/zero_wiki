@@ -2,6 +2,10 @@ sudo apt update
 
 sudo apt upgrade
 
+apt install python3-pip
+
+pip3 install beautifulsoup4
+
 cd /var/www
 
 rm -rf html
