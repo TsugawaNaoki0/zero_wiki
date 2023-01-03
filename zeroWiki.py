@@ -102,10 +102,6 @@ else:
     TOKEN_dic = {'Authorization': 'Bearer' + ' ' + TOKEN}
     send_dic = {'message': send_contents}
 
-    image_file = './test.png'
-    binary = open(image_file, mode='rb')
-    image_dic = {'imageFile': binary}
-
     requests.post(api_url, headers=TOKEN_dic, data=send_dic)
 
 f.close()
