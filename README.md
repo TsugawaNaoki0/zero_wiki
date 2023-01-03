@@ -1,3 +1,7 @@
+sudo apt update
+
+sudo apt upgrade
+
 cd /var/www
 
 rm -rf html
