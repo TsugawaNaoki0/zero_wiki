@@ -6,6 +6,8 @@ apt install python3-pip
 
 pip3 install beautifulsoup4
 
+apt-get install apache2
+
 cd /var/www
 
 rm -rf html
