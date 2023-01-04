@@ -60,7 +60,7 @@ class y_news_class():
 
 url = "https://headline.5ch.net/bbynamazu/news.rss"
 url = "https://ja.wikipedia.org/wiki/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F"
-
+url = "http://18.178.169.73/"
 
 
 path = './data/quake_data.txt'
