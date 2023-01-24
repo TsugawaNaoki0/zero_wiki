@@ -14,47 +14,47 @@ import urllib.request, urllib.error
 from bs4 import BeautifulSoup
 import csv
 
-class quake_mail_class():
-    def quake_mail(self, quake_news, to_address):
+# class quake_mail_class():
+#     def quake_mail(self, quake_news, to_address):
+#
+#         # SMTP認証情報
+#         account = "subaodezhen641@gmail.com"
+#         # password = "19960701jishin"
+#         password = "ubqrmyfjgxsojiwg"
+#
+#         # 送受信先
+#         to_email = to_address
+#         from_email = "subaodezhen641@gmail.com"
+#
+#         # MIMEの作成
+#         subject = "地震速報"
+#         # message = "地震速報"
+#         message = quake_news
+#         msg = MIMEText(message, "html")
+#         msg["Subject"] = subject
+#         msg["To"] = to_email
+#         msg["From"] = from_email
+#
+#         # メール送信処理
+#         server = smtplib.SMTP("smtp.gmail.com", 587)
+#         server.starttls()
+#         server.login(account, password)
+#         server.send_message(msg)
+#         server.quit()
 
-        # SMTP認証情報
-        account = "subaodezhen641@gmail.com"
-        # password = "19960701jishin"
-        password = "ubqrmyfjgxsojiwg"
-
-        # 送受信先
-        to_email = to_address
-        from_email = "subaodezhen641@gmail.com"
-
-        # MIMEの作成
-        subject = "地震速報"
-        # message = "地震速報"
-        message = quake_news
-        msg = MIMEText(message, "html")
-        msg["Subject"] = subject
-        msg["To"] = to_email
-        msg["From"] = from_email
-
-        # メール送信処理
-        server = smtplib.SMTP("smtp.gmail.com", 587)
-        server.starttls()
-        server.login(account, password)
-        server.send_message(msg)
-        server.quit()
-
-class y_news_class():
-    def y_news(self, url):
-        self.url = url
-        data_bank = []
-        # print(url)
-        feed = feedparser.parse(url)
-        # print(feed)
-        for entry in feed.entries:
-            data_bank.append(entry.title)
-            data_bank.append(entry.link)
-            print('タイトル:', entry.title)
-            print('URL:', entry.link)
-        return data_bank
+# class y_news_class():
+#     def y_news(self, url):
+#         self.url = url
+#         data_bank = []
+#         # print(url)
+#         feed = feedparser.parse(url)
+#         # print(feed)
+#         for entry in feed.entries:
+#             data_bank.append(entry.title)
+#             data_bank.append(entry.link)
+#             print('タイトル:', entry.title)
+#             print('URL:', entry.link)
+#         return data_bank
 
 # print("<p>" + "@@@ @@@ @@@ @@@" + "</p>")
 
@@ -96,7 +96,7 @@ else:
     #時刻を送る内容の変数に設定
     # send_contents = time
     # send_contents = "プログラムが起動されました。"
-    send_contents = "ページに変化がありました"
+    send_contents = "オバケが動きました。"
     TOKEN_dic = {'Authorization': 'Bearer' + ' ' + TOKEN}
     send_dic = {'message': send_contents}
 
