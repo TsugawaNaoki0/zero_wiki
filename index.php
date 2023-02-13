@@ -11,19 +11,23 @@
  <body>
    <div id="cursor"></div>
    <div class="main">
-     <h1><font color="white">URL REGISTRATION</font></h1>
-     <form  action="confirm.php" method="post" class="login">
-       <input type="text" name="url" class="login" placeholder="URL" required>
-       <br>
-       <br>
-       <br>
-       <br>
-       <button type="submit" class="login">_____</button>
-       <br>
-       <br>
-       <br>
-       <br>
-     </form>
+     <br>
+     <center>
+     <h1>観測中</h1>
+     <br>
+     <br>
+       <div class="middle_main">
+         オバケ(0)<br><br>
+         英美(G)<br><br>
+         料理人(Ap)<br><br>
+         記号(F)<br><br>
+         聖職者の村(Am)<br><br>
+         絶対的な真理(M)<br><br>
+       </div>
+     </center>
+     <br>
+     <br>
+     <br>
      <br>
      <br>
      <br>
