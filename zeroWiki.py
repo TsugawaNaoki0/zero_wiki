@@ -59,49 +59,65 @@ import csv
 # print("<p>" + "@@@ @@@ @@@ @@@" + "</p>")
 
 
-url = str(sys.argv[1])
-print(url)
+# url = str(sys.argv[1])
 # url = "https://headline.5ch.net/bbynamazu/news.rss"
-# url = "https://ja.wikipedia.org/wiki/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F"
-# url = "http://18.178.169.73/"
+
+box = [["https://ja.wikipedia.org/wiki/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F", "オバケ(0)"],
+       ["https://ja.wikipedia.org/wiki/Apple", "料理人(Ap)"],
+       ["https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4", "英美(G)"],
+       ["https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0", "記号(F)"],
+       ["https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%99%E3%82%BE%E3%82%B9", "聖職者の村(Am)"],
+       ["https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%8A%E3%83%87%E3%83%A9", "絶対的な真理(M)"],
+       ]
 
 
-path = './data/quake_data.txt'
 
-# url = "https://kabuoji3.com/stock/6501/2019/"
-# URLを指定する
-html = urllib.request.urlopen(url)
-# URLを開く
-soup = BeautifulSoup(html, "html.parser")
-# BeautifulSoup で開く
-# HTMLからニュース一覧に使用しているaタグを絞りこんでいく
-data_now = str(soup)
+for round in range(len(box)):
+    # url = "https://ja.wikipedia.org/wiki/%E5%85%AC%E5%AE%89%E8%AD%A6%E5%AF%9F"
+    url = str(box[round][0])
+    object = str(box[round][1])
 
-f = open(path, 'r', encoding='UTF-8')
-data_before = f.read()
-# print(data_before)
+    # object = "オバケ"
+    print(url)
+    # url = "http://18.178.169.73/"
 
-if (data_before == data_now):
-    print("no change")
-else:
-    print("There are some changes")
 
-    f = open(path, 'w')
-    f.write(data_now)  # 何も書き込まなくてファイルは作成されました
-    # data_now = list(data_now)
-    # print(data_now)
+    path = "./data/quake_data" + str(round+1) + ".txt"
 
-    TOKEN = 'ubh9DRuV9zdbxHuY7bRdyigA1nSVTaMj1O8E2oE9QJt'
-    api_url = 'https://notify-api.line.me/api/notify'
-    #時刻を送る内容の変数に設定
-    # send_contents = time
-    # send_contents = "プログラムが起動されました。"
-    send_contents = "オバケが動きました。"
-    TOKEN_dic = {'Authorization': 'Bearer' + ' ' + TOKEN}
-    send_dic = {'message': send_contents}
+    # url = "https://kabuoji3.com/stock/6501/2019/"
+    # URLを指定する
+    html = urllib.request.urlopen(url)
+    # URLを開く
+    soup = BeautifulSoup(html, "html.parser")
+    # BeautifulSoup で開く
+    # HTMLからニュース一覧に使用しているaタグを絞りこんでいく
+    data_now = str(soup)
 
-    requests.post(api_url, headers=TOKEN_dic, data=send_dic)
+    f = open(path, 'r', encoding='UTF-8')
+    data_before = f.read()
+    # print(data_before)
 
-f.close()
+    if (data_before == data_now):
+        print("no change")
+    else:
+        print("There are some changes")
+
+        f = open(path, 'w')
+        f.write(data_now)  # 何も書き込まなくてファイルは作成されました
+        # data_now = list(data_now)
+        # print(data_now)
+
+        TOKEN = 'ubh9DRuV9zdbxHuY7bRdyigA1nSVTaMj1O8E2oE9QJt'
+        api_url = 'https://notify-api.line.me/api/notify'
+        #時刻を送る内容の変数に設定
+        # send_contents = time
+        # send_contents = "プログラムが起動されました。"
+        send_contents = "[" + object + "]" + "が動きました。"
+        TOKEN_dic = {'Authorization': 'Bearer' + ' ' + TOKEN}
+        send_dic = {'message': send_contents}
+
+        requests.post(api_url, headers=TOKEN_dic, data=send_dic)
+
+    f.close()
 
  # while true; do python3 quake.py; sleep 20s; done
