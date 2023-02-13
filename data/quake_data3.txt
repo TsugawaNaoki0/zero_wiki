@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled" dir="ltr" lang="ja">
+<head>
+<meta charset="utf-8"/>
+<title>サンダー・ピチャイ - Wikipedia</title>
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"941b65b4-d609-47e8-a2bb-81fbb3c8e0e4","wgCSPNonce":false,
+"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"サンダー・ピチャイ","wgTitle":"サンダー・ピチャイ","wgCurRevisionId":93653174,"wgRevisionId":93653174,"wgArticleId":3521317,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["プロジェクト人物伝項目","ウィキデータにない公式ウェブサイト","VIAF識別子が指定されている記事","WORLDCATID識別子が指定されている記事","LCCN識別子が指定されている記事","PLWABN識別子が指定されている記事","Googleの人物","インド出身の人物","1972年生","存命人物","最高経営責任者"],"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"サンダー・ピチャイ","wgRelevantArticleId":3521317,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"日本語","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q3503829","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":
+"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","skins.vector.es6","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.NormalizeCharWidth","ext.gadget.shortURL","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.checkSignature","ext.gadget.charinsert",
+"ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link href="/w/load.php?lang=ja&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<script async="" src="/w/load.php?lang=ja&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?lang=ja&amp;modules=ext.gadget.PDFLinkIcon%2CRedirectColor&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<link href="/w/load.php?lang=ja&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022" rel="stylesheet"/>
+<meta content="MediaWiki 1.40.0-wmf.22" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sundar_Pichai_%28cropped%29.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1627" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b3/Sundar_Pichai_%28cropped%29.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1085" property="og:image:height"/>
+<meta content="640" property="og:image:width"/>
+<meta content="868" property="og:image:height"/>
+<meta content="width=1000" name="viewport"/>
+<meta content="サンダー・ピチャイ - Wikipedia" property="og:title"/>
+<meta content="website" property="og:type"/>
+<link href="//upload.wikimedia.org" rel="preconnect"/>
+<link href="//ja.m.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" media="only screen and (max-width: 720px)" rel="alternate"/>
+<link href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=edit" rel="alternate" title="編集" type="application/x-wiki"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (ja)" type="application/opensearchdescription+xml"/>
+<link href="//ja.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" rel="canonical"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+</head>
+<body class="skin-vector skin-vector-search-vue vector-toc-pinned mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-サンダー・ピチャイ rootpage-サンダー・ピチャイ skin-vector-2022 action-view"><div class="mw-page-container">
+<a class="mw-jump-link" href="#bodyContent">コンテンツにスキップ</a>
+<div class="mw-page-container-inner">
+<input class="mw-checkbox-hack-checkbox" id="mw-sidebar-checkbox" type="checkbox"/>
+<header class="mw-header mw-ui-icon-flush-left mw-ui-icon-flush-right">
+<div class="vector-header-start">
+<label aria-controls="mw-panel" class="mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-flush-right" data-event-name="ui.sidebar" for="mw-sidebar-checkbox" id="mw-sidebar-button" role="button" tabindex="0" title="メインメニュー">
+<span>サイドバーの切り替え</span>
+</label>
+<a class="mw-logo" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8">
+<img alt="" aria-hidden="true" class="mw-logo-icon" height="50" src="/static/images/icons/wikipedia.png" width="50"/>
+<span class="mw-logo-container">
+<img alt="Wikipedia" class="mw-logo-wordmark" src="/static/images/mobile/copyright/wikipedia-wordmark-ja.svg" style="width: 7.5em; height: 1.25em;"/>
+<img alt="" class="mw-logo-tagline" height="14" src="/static/images/mobile/copyright/wikipedia-tagline-ja.svg" style="width: 6.25em; height: 0.875em;" width="100"/>
+</span>
+</a>
+</div>
+<div class="vector-header-end">
+<div class="vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<a accesskey="f" class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search search-toggle" href="/wiki/%E7%89%B9%E5%88%A5:%E6%A4%9C%E7%B4%A2" title="Wikipedia内を検索 [f]">
+<span>検索</span>
+</a>
+<div>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-moved" id="simpleSearch">
+<input accesskey="f" aria-label="Wikipedia内を検索" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Wikipedia内を検索" title="Wikipedia内を検索 [f]" type="search"/>
+<input name="title" type="hidden" value="特別:検索"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="この文字列が含まれるページを探す" type="submit" value="検索"/>
+<input class="searchButton" id="searchButton" name="go" title="厳密に一致する名前のページが存在すれば、そのページへ移動する" type="submit" value="表示"/>
+</div>
+</form>
+</div>
+</div>
+<nav aria-label="個人用ツール" class="vector-user-links" role="navigation">
+<div class="vector-menu mw-portlet mw-portlet-vector-user-menu-overflow" id="p-vector-user-menu-overflow">
+<div class="vector-menu-heading">
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="user-links-collapsible-item mw-list-item" id="pt-createaccount-2"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません"><span>アカウント作成</span></a></li><li class="user-links-collapsible-item mw-list-item" id="pt-login-2"><a accesskey="o" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" title="ログインすることを推奨します。ただし、必須ではありません。 [o]"><span>ログイン</span></a></li></ul>
+</div>
+</div>
+<div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-personal vector-user-menu vector-user-menu-logged-out" id="p-personal" title="その他の操作">
+<input aria-haspopup="true" class="vector-menu-checkbox " data-event-name="ui.dropdown-p-personal" id="p-personal-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading mw-checkbox-hack-button mw-ui-icon mw-ui-button mw-ui-quiet mw-ui-icon-element mw-ui-icon-wikimedia-ellipsis" for="p-personal-checkbox" id="p-personal-label">
+<span class="vector-menu-heading-label">個人用ツール</span>
+</label>
+<div class="vector-menu-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="vector-user-menu-create-account user-links-collapsible-item" id="pt-createaccount"><a data-mw="interface" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E4%BD%9C%E6%88%90&amp;returnto=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" title="アカウントを作成してログインすることをお勧めしますが、必須ではありません"><span class="mw-ui-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span><span>アカウント作成</span></a>
+</li><li class="vector-user-menu-login user-links-collapsible-item" id="pt-login"><a accesskey="o" data-mw="interface" href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3&amp;returnto=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" title="ログインすることを推奨します。ただし、必須ではありません。 [o]"><span class="mw-ui-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span><span>ログイン</span></a>
+</li></ul>
+</div>
+<div class="vector-user-menu-anon-editor">
+<p>
+			ログアウトした編集者のページ <a aria-label="編集の詳細" data-mw="interface" href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D"><span>もっと詳しく</span></a>
+</p>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%88%E3%83%BC%E3%82%AF%E3%83%9A%E3%83%BC%E3%82%B8" title="このIPアドレスからなされた編集についての議論 [n]"><span>トーク</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%E7%89%B9%E5%88%A5:%E8%87%AA%E5%88%86%E3%81%AE%E6%8A%95%E7%A8%BF%E8%A8%98%E9%8C%B2" title="このIPアドレスからなされた編集の一覧 [y]"><span>投稿記録</span></a></li></ul>
+</div>
+</div>
+</input></div>
+</nav>
+</div>
+</header>
+<div class="vector-main-menu-container vector-sidebar-container-no-toc">
+<div id="mw-navigation">
+<nav aria-label="サイト" class="vector-main-menu-landmark" id="mw-panel" role="navigation">
+<div class="vector-main-menu vector-pinnable-element" id="vector-main-menu">
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-navigation" id="p-navigation">
+<div class="vector-menu-heading " id="p-navigation-label">
+<span class="vector-menu-heading-label">案内</span>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページに移動する [z]"><span>メインページ</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/Wikipedia:%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="このプロジェクトについて、できること、情報を入手する場所"><span>コミュニティ・ポータル</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/Portal:%E6%9C%80%E8%BF%91%E3%81%AE%E5%87%BA%E6%9D%A5%E4%BA%8B" title="最近の出来事の背景を知る"><span>最近の出来事</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%E7%89%B9%E5%88%A5:%E6%96%B0%E3%81%97%E3%81%84%E3%83%9A%E3%83%BC%E3%82%B8" title="最近新規に作成されたページの一覧"><span>新しいページ</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%E7%89%B9%E5%88%A5:%E6%9C%80%E8%BF%91%E3%81%AE%E6%9B%B4%E6%96%B0" title="このウィキにおける最近の更新の一覧 [r]"><span>最近の更新</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%E7%89%B9%E5%88%A5:%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9B%E8%A1%A8%E7%A4%BA" title="無作為に選択されたページを読み込む [x]"><span>おまかせ表示</span></a></li><li class="mw-list-item" id="n-sandbox"><a href="/wiki/Wikipedia:%E3%82%B5%E3%83%B3%E3%83%89%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9" title="練習用のページ"><span>練習用ページ</span></a></li><li class="mw-list-item" id="n-commonsupload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=ja" title="画像やメディアファイルをウィキメディア・コモンズにアップロード"><span>アップロード (ウィキメディア・コモンズ)</span></a></li></ul>
+</div>
+</div>
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-help" id="p-help">
+<div class="vector-menu-heading " id="p-help-label">
+<span class="vector-menu-heading-label">ヘルプ</span>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="mw-list-item" id="n-help"><a href="/wiki/Help:%E7%9B%AE%E6%AC%A1" title="情報を得る場所"><span>ヘルプ</span></a></li><li class="mw-list-item" id="n-villagepump"><a href="/wiki/Wikipedia:%E4%BA%95%E6%88%B8%E7%AB%AF" title="プロジェクトについての意見交換"><span>井戸端</span></a></li><li class="mw-list-item" id="n-notice"><a href="/wiki/Wikipedia:%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B" title="プロジェクトについてのお知らせ"><span>お知らせ</span></a></li><li class="mw-list-item" id="n-bugreportspage"><a href="/wiki/Wikipedia:%E3%83%90%E3%82%B0%E3%81%AE%E5%A0%B1%E5%91%8A" title="ウィキペディア・ソフトウェアのバグ報告"><span>バグの報告</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ja.wikipedia.org&amp;uselang=ja" title="ご支援ください"><span>寄付</span></a></li><li class="mw-list-item" id="n-contact"><a href="/wiki/Wikipedia:%E9%80%A3%E7%B5%A1%E5%85%88" title="ウィキペディアやウィキメディア財団に関する連絡先"><span>ウィキペディアに関するお問い合わせ</span></a></li></ul>
+</div>
+</div>
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-tb" id="p-tb">
+<div class="vector-menu-heading " id="p-tb-label">
+<span class="vector-menu-heading-label">ツール</span>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%E7%89%B9%E5%88%A5:%E3%83%AA%E3%83%B3%E3%82%AF%E5%85%83/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" title="ここにリンクしている全ウィキページの一覧 [j]"><span>リンク元</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%E7%89%B9%E5%88%A5:%E9%96%A2%E9%80%A3%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%B3%81/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" rel="nofollow" title="このページからリンクしているページの最近の更新 [k]"><span>関連ページの更新状況</span></a></li><li class="mw-list-item" id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%AD%E3%83%BC%E3%83%89" title="ファイルをアップロードする [u]"><span>ファイルをアップロード</span></a></li><li class="mw-list-item" id="t-specialpages"><a accesskey="q" href="/wiki/%E7%89%B9%E5%88%A5:%E7%89%B9%E5%88%A5%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%80%E8%A6%A7" title="特別ページの一覧 [q]"><span>特別ページ</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;oldid=93653174" title="このページのこの版への固定リンク"><span>この版への固定リンク</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=info" title="このページについての詳細情報"><span>ページ情報</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%81%93%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%BC%95%E7%94%A8&amp;page=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;id=93653174&amp;wpFormIdentifier=titleform" title="このページの引用方法"><span>このページを引用</span></a></li><li class="mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3503829" title="関連付けられたデータリポジトリ項目へのリンク [g]"><span>ウィキデータ項目</span></a></li></ul>
+</div>
+</div>
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-coll-print_export" id="p-coll-print_export">
+<div class="vector-menu-heading " id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">印刷/書き出し</span>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="mw-list-item" id="coll-create_a_book"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:%E3%83%96%E3%83%83%E3%82%AF&amp;bookcmd=book_creator&amp;referer=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4"><span>ブックの新規作成</span></a></li><li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%E7%89%B9%E5%88%A5:DownloadAsPdf&amp;page=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=show-download-screen"><span>PDF 形式でダウンロード</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;printable=yes" title="このページの印刷用ページ [p]"><span>印刷用バージョン</span></a></li></ul>
+</div>
+</div>
+<div class="vector-main-menu-group vector-menu mw-portlet mw-portlet-wikibase-otherprojects" id="p-wikibase-otherprojects">
+<div class="vector-menu-heading " id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">他のプロジェクト</span>
+</div>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Sundar_Pichai" hreflang="en"><span>コモンズ</span></a></li></ul>
+</div>
+</div>
+<div class="vector-main-menu-action vector-main-menu-action-lang-alert">
+<div class="vector-main-menu-action-item">
+<div class="vector-main-menu-action-heading vector-menu-heading">言語</div>
+<div class="vector-main-menu-action-content vector-menu-content">
+<div class="mw-message-box-notice vector-language-sidebar-alert mw-message-box">このWikipediaでは言語間リンクがページの先頭にある記事タイトルの向かい側に設置されています。<a href="#p-lang-btn">ページの先頭をご覧ください</a>。</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="vector-sitenotice-container">
+<div id="siteNotice"><!-- CentralNotice --></div>
+</div>
+<input class="mw-checkbox-hack-checkbox" id="vector-toc-collapsed-checkbox" type="checkbox"/>
+<nav aria-label="目次" class="mw-table-of-contents-container" data-event-name="ui.sidebar-toc" id="mw-panel-toc" role="navigation">
+</nav>
+<div class="mw-content-container">
+<main class="mw-body" id="content" role="main">
+<header class="mw-body-header vector-page-titlebar">
+<label aria-controls="toc-toggle-list" class="mw-ui-button mw-ui-quiet mw-ui-icon mw-ui-icon-flush-left mw-ui-icon-element mw-ui-icon-wikimedia-listBullet mw-checkbox-hack-button" data-event-name="vector.toc-toggle-list" for="vector-toc-collapsed-checkbox" id="vector-toc-collapsed-button" role="button" tabindex="0" title="目次">
+						目次の表示・非表示を切り替え
+					</label>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">サンダー・ピチャイ</span></h1>
+<div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-lang mw-ui-icon-flush-right" id="p-lang-btn">
+<input aria-haspopup="true" aria-label="特定の記事の別の言語版に移動します。 利用可能な言語56件" class="vector-menu-checkbox mw-interlanguage-selector" data-event-name="ui.dropdown-p-lang-btn" id="p-lang-btn-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading mw-ui-button mw-ui-quiet mw-ui-progressive mw-portlet-lang-heading-56" for="p-lang-btn-checkbox" id="p-lang-btn-label">
+<span class="mw-ui-icon mw-ui-icon-wikimedia-language-progressive"></span><span class="vector-menu-heading-label">56の言語版</span>
+</label>
+<div class="vector-menu-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D8%A7%D9%86%D8%AF%D8%B1_%D8%A8%D9%8A%D8%AA%D8%B4%D8%A7%D9%8A" hreflang="ar" lang="ar" title="アラビア語: ساندر بيتشاي"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%B0_%E0%A6%AA%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%87" hreflang="as" lang="as" title="アッサム語: সুন্দৰ পিচাই"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Sundar_Pi%C3%A7ay" hreflang="az" lang="az" title="アゼルバイジャン語: Sundar Piçay"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D1%83%D0%BD%D0%B4%D0%B0%D1%80_%D0%9F%D0%B8%D1%87%D0%B0%D0%B9" hreflang="bg" lang="bg" title="ブルガリア語: Сундар Пичай"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0_%E0%A6%AA%E0%A6%BF%E0%A6%9A%E0%A6%BE%E0%A6%87" hreflang="bn" lang="bn" title="ベンガル語: সুন্দর পিচাই"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sundar_Pichai" hreflang="ca" lang="ca" title="カタロニア語: Sundar Pichai"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sundar_Pichai" hreflang="cs" lang="cs" title="チェコ語: Sundar Pichai"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Sundar_Pichai" hreflang="de" lang="de" title="ドイツ語: Sundar Pichai"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" href="https://en.wikipedia.org/wiki/Sundar_Pichai" hreflang="en" lang="en" title="英語: Sundar Pichai"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sundar_Pichai" hreflang="es" lang="es" title="スペイン語: Sundar Pichai"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D9%88%D9%86%D8%AF%D8%A7%D8%B1_%D9%BE%DB%8C%DA%86%D8%A7%DB%8C" hreflang="fa" lang="fa" title="ペルシア語: سوندار پیچای"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sundar_Pichai" hreflang="fi" lang="fi" title="フィンランド語: Sundar Pichai"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Sundar_Pichai" hreflang="fr" lang="fr" title="フランス語: Sundar Pichai"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Sundar_Pichai" hreflang="ga" lang="ga" title="アイルランド語: Sundar Pichai"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gu mw-list-item"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%B8%E0%AB%81%E0%AA%82%E0%AA%A6%E0%AA%B0_%E0%AA%AA%E0%AA%BF%E0%AA%9A%E0%AA%BE%E0%AA%88" hreflang="gu" lang="gu" title="グジャラート語: સુંદર પિચાઈ"><span>ગુજરાતી</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a class="interlanguage-link-target" href="https://ha.wikipedia.org/wiki/Sundar_Pichai" hreflang="ha" lang="ha" title="ハウサ語: Sundar Pichai"><span>Hausa</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A0%D7%93%D7%90%D7%A8_%D7%A4%D7%99%D7%A6%27%D7%90%D7%99" hreflang="he" lang="he" title="ヘブライ語: סונדאר פיצ'אי"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%82%E0%A4%A6%E0%A4%B0_%E0%A4%AA%E0%A4%BF%E0%A4%9A%E0%A4%BE%E0%A4%88" hreflang="hi" lang="hi" title="ヒンディー語: सुंदर पिचाई"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sundar_Pichai" hreflang="hu" lang="hu" title="ハンガリー語: Sundar Pichai"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8D%D5%B8%D6%82%D5%B6%D5%A4%D5%A1%D6%80_%D5%8A%D5%AB%D5%B9%D5%A1%D5%B5" hreflang="hy" lang="hy" title="アルメニア語: Սունդար Պիչայ"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Sundar_Pichai" hreflang="id" lang="id" title="インドネシア語: Sundar Pichai"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sundar_Pichai" hreflang="it" lang="it" title="イタリア語: Sundar Pichai"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Sundar_Pichai" hreflang="jv" lang="jv" title="ジャワ語: Sundar Pichai"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B3%81%E0%B2%82%E0%B2%A6%E0%B2%B0%E0%B3%8D_%E0%B2%AA%E0%B2%BF%E0%B2%9A%E0%B3%88" hreflang="kn" lang="kn" title="カンナダ語: ಸುಂದರ್ ಪಿಚೈ"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%84%A0%EB%8B%A4_%ED%94%BC%EC%B0%A8%EC%9D%B4" hreflang="ko" lang="ko" title="韓国語: 선다 피차이"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Sundars_Pi%C4%8Dai" hreflang="lv" lang="lv" title="ラトビア語: Sundars Pičai"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mai mw-list-item"><a class="interlanguage-link-target" href="https://mai.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0_%E0%A4%AA%E0%A4%BF%E0%A4%9A%E0%A4%BE%E0%A4%88" hreflang="mai" lang="mai" title="マイティリー語: सुन्दर पिचाई"><span>मैथिली</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%81%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%BC_%E0%B4%AA%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%88" hreflang="ml" lang="ml" title="マラヤーラム語: സുന്ദർ പിച്ചൈ"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%82%E0%A4%A6%E0%A4%B0_%E0%A4%AA%E0%A4%BF%E0%A4%9A%E0%A4%88" hreflang="mr" lang="mr" title="マラーティー語: सुंदर पिचई"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Sundar_Pichai" hreflang="ms" lang="ms" title="マレー語: Sundar Pichai"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%85%E1%80%BD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%92%E1%80%AB%E1%80%B8_%E1%80%95%E1%80%85%E1%80%BA%E1%80%81%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8" hreflang="my" lang="my" title="ミャンマー語: စွန်းဒါး ပစ်ချိုင်း"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-ne mw-list-item"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0_%E0%A4%AA%E0%A4%BF%E0%A4%9A%E0%A4%BE%E0%A4%88" hreflang="ne" lang="ne" title="ネパール語: सुन्दर पिचाई"><span>नेपाली</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Sundar_Pichai" hreflang="nl" lang="nl" title="オランダ語: Sundar Pichai"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%B8%E0%AD%81%E0%AC%A8%E0%AD%8D%E0%AC%A6%E0%AC%B0_%E0%AC%AA%E0%AC%BF%E0%AC%9A%E0%AC%BE%E0%AC%87" hreflang="or" lang="or" title="オディア語: ସୁନ୍ଦର ପିଚାଇ"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%B8%E0%A9%81%E0%A9%B0%E0%A8%A6%E0%A8%B0_%E0%A8%AA%E0%A8%BF%E0%A8%9A%E0%A8%BE%E0%A8%88" hreflang="pa" lang="pa" title="パンジャブ語: ਸੁੰਦਰ ਪਿਚਾਈ"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sundar_Pichai" hreflang="pl" lang="pl" title="ポーランド語: Sundar Pichai"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sundar_Pichai" hreflang="pt" lang="pt" title="ポルトガル語: Sundar Pichai"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Sundar_Pichai" hreflang="ro" lang="ro" title="ルーマニア語: Sundar Pichai"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%87%D0%B0%D0%B8,_%D0%A1%D1%83%D0%BD%D0%B4%D0%B0%D1%80" hreflang="ru" lang="ru" title="ロシア語: Пичаи, Сундар"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sat mw-list-item"><a class="interlanguage-link-target" href="https://sat.wikipedia.org/wiki/%E1%B1%A5%E1%B1%A9%E1%B1%B1%E1%B1%AB%E1%B1%9A%E1%B1%A8_%E1%B1%AF%E1%B1%A4%E1%B1%AA%E1%B1%9F%E1%B1%AD" hreflang="sat" lang="sat" title="サンターリー語: ᱥᱩᱱᱫᱚᱨ ᱯᱤᱪᱟᱭ"><span>ᱥᱟᱱᱛᱟᱲᱤ</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Sundar_Pichai" hreflang="sco" lang="sco" title="スコットランド語: Sundar Pichai"><span>Scots</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B6%BB%E0%B7%8A_%E0%B6%B4%E0%B7%92%E0%B6%A0%E0%B7%8A%E0%B6%A0%E0%B7%9B" hreflang="si" lang="si" title="シンハラ語: සුන්දර් පිච්චෛ"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Sundar_Pichai" hreflang="en-simple" lang="en-simple" title="シンプル英語: Sundar Pichai"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Sundar_Pichai" hreflang="sk" lang="sk" title="スロバキア語: Sundar Pichai"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Sundar_Pichai" hreflang="sq" lang="sq" title="アルバニア語: Sundar Pichai"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Sundar_Pichai" hreflang="sv" lang="sv" title="スウェーデン語: Sundar Pichai"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AF%8D_%E0%AE%AA%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%88" hreflang="ta" lang="ta" title="タミル語: சுந்தர் பிச்சை"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B1%81%E0%B0%82%E0%B0%A6%E0%B0%B0%E0%B1%8D_%E0%B0%AA%E0%B0%BF%E0%B0%9A%E0%B1%88" hreflang="te" lang="te" title="テルグ語: సుందర్ పిచై"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%B1%E0%B8%A3_%E0%B8%9B%E0%B8%B4%E0%B8%88%E0%B9%84%E0%B8%8A" hreflang="th" lang="th" title="タイ語: ศุนทัร ปิจไช"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Sundar_Pichai" hreflang="tr" lang="tr" title="トルコ語: Sundar Pichai"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BD%D0%B4%D0%B0%D1%80_%D0%9F%D1%96%D1%87%D0%B0%D1%97" hreflang="uk" lang="uk" title="ウクライナ語: Сундар Пічаї"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B3%D9%86%D8%AF%D8%B1_%D9%BE%DA%86%D8%A7%D8%A6%DB%8C" hreflang="ur" lang="ur" title="ウルドゥー語: سندر پچائی"><span>اردو</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Sundar_Pichai" hreflang="uz" lang="uz" title="ウズベク語: Sundar Pichai"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Sundar_Pichai" hreflang="vi" lang="vi" title="ベトナム語: Sundar Pichai"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%AD%99%E8%BE%BE%E5%B0%94%C2%B7%E7%9A%AE%E6%9F%B4" hreflang="zh" lang="zh" title="中国語: 孙达尔·皮柴"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%A1%91%E9%81%94%E7%9A%AE%E9%87%87" hreflang="yue" lang="yue" title="広東語: 桑達皮采"><span>粵語</span></a></li></ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3503829#sitelinks-wikipedia" title="言語間リンクを編集する">リンクを編集</a></span></div>
+</div>
+</div>
+</input></div>
+</header>
+<div class="vector-page-toolbar">
+<div class="vector-page-toolbar-container">
+<div id="left-navigation">
+<nav aria-label="名前空間">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages" id="p-associated-pages">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="selected vector-tab-noicon mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" title="本文を閲覧 [c]"><span>ページ</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4" rel="discussion" title="本文ページについての議論 [t]"><span>ノート</span></a></li></ul>
+</div>
+</div>
+<div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-variants emptyPortlet" id="p-variants">
+<input aria-haspopup="true" aria-label="別の言語に切り替える" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading " for="p-variants-checkbox" id="p-variants-label">
+<span class="vector-menu-heading-label">日本語</span>
+</label>
+<div class="vector-menu-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"></ul>
+</div>
+</div>
+</input></div>
+</nav>
+</div>
+<div class="vector-collapsible" id="right-navigation">
+<nav aria-label="表示">
+<div class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views" id="p-views">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="selected vector-tab-noicon mw-list-item" id="ca-view"><a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4"><span>閲覧</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=edit" title="このページを編集 [e]"><span>編集</span></a></li><li class="vector-tab-noicon mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=history" title="このページの過去の版 [h]"><span>履歴表示</span></a></li></ul>
+</div>
+</div>
+</nav>
+<nav aria-label="その他の操作" class="vector-page-tools-landmark">
+<div class="vector-menu vector-dropdown vector-menu-dropdown mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items" id="p-cactions" title="その他の操作">
+<input aria-haspopup="true" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox">
+<label class="vector-menu-heading" for="p-cactions-checkbox" id="p-cactions-label">
+<span class="vector-menu-heading-label">その他</span>
+</label>
+<div class="vector-menu-content">
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list"><li class="selected vector-more-collapsible-item mw-list-item" id="ca-more-view"><a href="/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4"><span>閲覧</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-edit"><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=edit"><span>編集</span></a></li><li class="vector-more-collapsible-item mw-list-item" id="ca-more-history"><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=history"><span>履歴表示</span></a></li></ul>
+</div>
+</div>
+</input></div>
+</nav>
+</div>
+</div>
+</div>
+<div aria-labelledby="firstHeading" class="vector-body" data-mw-ve-target-container="" id="bodyContent">
+<div class="vector-body-before-content">
+<div class="mw-indicators">
+</div>
+<div class="noprint" id="siteSub">出典: フリー百科事典『ウィキペディア（Wikipedia）』</div>
+</div>
+<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+<div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="ja"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div style="font-size:small; font-weight:normal">サンダー・ピチャイ</div><span class="fn">Sundar Pichai</span></th></tr><tr><td colspan="2" style="text-align:center"><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Sundar_Pichai_(cropped).jpg"><img alt="Sundar Pichai (cropped).jpg" data-file-height="644" data-file-width="475" decoding="async" height="298" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sundar_Pichai_%28cropped%29.jpg/220px-Sundar_Pichai_%28cropped%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sundar_Pichai_%28cropped%29.jpg/330px-Sundar_Pichai_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sundar_Pichai_%28cropped%29.jpg/440px-Sundar_Pichai_%28cropped%29.jpg 2x" width="220"/></a><div>ピチャイ</div></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;white-space:nowrap;">生誕</th><td><span class="nickname">Pichai Sundararajan</span><br/><span style="display:none"> (<span class="bday">1972-06-10</span>) </span><a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a><a href="/wiki/6%E6%9C%8810%E6%97%A5" title="6月10日">6月10日</a>（50歳）<br/><span class="birthplace"><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_India.svg" title="インドの旗"><img alt="インドの旗" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/25px-Flag_of_India.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/38px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/50px-Flag_of_India.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a> <a href="/wiki/%E3%82%BF%E3%83%9F%E3%83%AB%E3%83%BB%E3%83%8A%E3%83%BC%E3%83%89%E3%82%A5%E5%B7%9E" title="タミル・ナードゥ州">タミル・ナードゥ州</a></span></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;white-space:nowrap;">国籍</th><td class="category"><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_India.svg" title="インドの旗"><img alt="インドの旗" class="thumbborder" data-file-height="600" data-file-width="900" decoding="async" height="17" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/25px-Flag_of_India.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/38px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/50px-Flag_of_India.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a><br/><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Flag_of_the_United_States.svg" title="アメリカ合衆国の旗"><img alt="アメリカ合衆国の旗" class="thumbborder" data-file-height="650" data-file-width="1235" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/25px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/38px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/50px-Flag_of_the_United_States.svg.png 2x" width="25"/></a> <a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD" title="アメリカ合衆国">アメリカ合衆国</a></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;white-space:nowrap;">出身校</th><td><a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6" title="インド工科大学">インド工科大学</a><br/><a href="/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6" title="スタンフォード大学">スタンフォード大学</a><br/><a href="/wiki/%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%99%E3%83%8B%E3%82%A2%E5%A4%A7%E5%AD%A6" title="ペンシルベニア大学">ペンシルベニア大学</a></td></tr><tr><th scope="row" style="text-align:left;white-space:nowrap;white-space:nowrap;">職業</th><td class="role"><a class="mw-redirect" href="/wiki/%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB" title="グーグル">グーグル</a>CEO</td></tr></tbody></table>
+<p><b>サンダー・ピチャイ</b>（<a href="/wiki/%E3%82%BF%E3%83%9F%E3%83%AB%E8%AA%9E" title="タミル語">タミル語</a>: <span lang="ta">சுந்தர் பிச்சை</span>、<a href="/wiki/%E8%8B%B1%E8%AA%9E" title="英語">英語</a>: <span lang="en">Sundar Pichai</span>、 <a href="/wiki/1972%E5%B9%B4" title="1972年">1972年</a><a href="/wiki/6%E6%9C%8810%E6%97%A5" title="6月10日">6月10日</a><sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> - ）は、インド出身のインド系アメリカ人<a href="/wiki/%E5%AE%9F%E6%A5%AD%E5%AE%B6" title="実業家">実業家</a>で、<a href="/wiki/Google" title="Google">Google</a>及びGoogle親会社である<a href="/wiki/Alphabet" title="Alphabet">Alphabet</a>の<a href="/wiki/%E6%9C%80%E9%AB%98%E7%B5%8C%E5%96%B6%E8%B2%AC%E4%BB%BB%E8%80%85" title="最高経営責任者">最高経営責任者</a><sup class="reference" id="cite_ref-forbesjapan_2-0"><a href="#cite_note-forbesjapan-2">[2]</a></sup><sup class="reference" id="cite_ref-:0_3-0"><a href="#cite_note-:0-3">[3]</a></sup>。
+</p>
+<h2><span id=".E7.B5.8C.E6.AD.B4"></span><span class="mw-headline" id="経歴">経歴</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=edit&amp;section=1" title="節を編集: 経歴">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/%E3%82%BF%E3%83%9F%E3%83%AB%E4%BA%BA" title="タミル人">タミル人</a>の両親のもと、<a href="/wiki/%E3%82%A4%E3%83%B3%E3%83%89" title="インド">インド</a>に生まれる。子供時代をマドラス（現在の<a href="/wiki/%E3%83%81%E3%82%A7%E3%83%B3%E3%83%8A%E3%82%A4" title="チェンナイ">チェンナイ</a>）で過ごす<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>。
+</p><p>2004年にGoogleへ入社<sup class="reference" id="cite_ref-forbesjapan_2-1"><a href="#cite_note-forbesjapan-2">[2]</a></sup>。<a href="/wiki/Google_Chrome" title="Google Chrome">Google Chrome</a>などのプロダクトマネジメントに携わった<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup>。
+</p><p>2015年、Googleの持株会社<a href="/wiki/Alphabet" title="Alphabet">Alphabet</a>の設立に伴い、Googleの最高経営責任者に任命された<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup>。
+</p><p>2018年8月、Googleが<a href="/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="中華人民共和国">中国</a>政府の<a href="/wiki/%E3%83%8D%E3%83%83%E3%83%88%E6%A4%9C%E9%96%B2" title="ネット検閲">ネット検閲</a>を受け入れた検索サービスを開発する「<a href="/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A4_(%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)" title="ドラゴンフライ (検索エンジン)">ドラゴンフライ計画</a>」を推し進めていることが暴露された際はGoogleの社員1400人が署名で抗議する事態となり<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup>、ピチャイは同年10月に計画を認めて「中国市場の重要性や利用者の多さを考えれば、探求することは重要だ」と正当化し<sup class="reference" id="cite_ref-dragonfly_8-0"><a href="#cite_note-dragonfly-8">[8]</a></sup>、同年12月の<a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E8%AD%B0%E4%BC%9A" title="アメリカ合衆国議会">アメリカ合衆国議会</a>の<a href="/wiki/%E5%85%AC%E8%81%B4%E4%BC%9A" title="公聴会">公聴会</a>でこの計画は、同年3月に同様にGoogleの社員から抗議を受けた米軍の<a href="/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD" title="人工知能">AI</a>の軍事利用に協力する「メイヴン計画」<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup>とともにAIを用いた兵器開発や人権侵害は行わせないと誓った同年6月のAI開発6原則との整合性でピチャイは追及を受けた<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>。
+</p><p>2019年3月14日、<a href="/wiki/%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E3%83%BB%E3%83%80%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89" title="ジョセフ・ダンフォード">ジョセフ・ダンフォード</a><a class="mw-redirect" href="/wiki/%E7%B5%B1%E5%90%88%E5%8F%82%E8%AC%80%E6%9C%AC%E9%83%A8%E8%AD%B0%E9%95%B7" title="統合参謀本部議長">統合参謀本部議長</a>や<a href="/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%8A%E3%83%8F%E3%83%B3" title="パトリック・シャナハン">パトリック・シャナハン</a><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%95%B7%E5%AE%98" title="アメリカ合衆国国防長官">国防長官</a>代行、<a href="/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97" title="ドナルド・トランプ">ドナルド・トランプ</a><a href="/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E5%A4%A7%E7%B5%B1%E9%A0%98" title="アメリカ合衆国大統領">大統領</a>から中国でのAI研究拠点の設立などでGoogleは<a href="/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E8%BB%8D" title="中国人民解放軍">中国人民解放軍</a>に協力していると非難されたことを受け<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup>、27日にピチャイは<a href="/wiki/%E3%83%80%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89" title="ダン・フォード">ダンフォード</a>や<a href="/wiki/%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BB%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97" title="ドナルド・トランプ">トランプ大統領</a>と面談して中国の<a href="/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD" title="人工知能">AI</a>研究拠点の成果は中国に限らず全ての人々に開放されていると釈明した<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup>。
+</p><p>2019年10月23日、世界最高速の<a class="mw-redirect" href="/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC" title="スーパーコンピューター">スーパーコンピューター</a>が1万年かかる計算問題を<a class="mw-redirect" href="/wiki/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC" title="量子コンピューター">量子コンピューター</a>は3分20秒で解くことに成功してGoogleは<a href="/wiki/%E9%87%8F%E5%AD%90%E8%B6%85%E8%B6%8A%E6%80%A7" title="量子超越性">量子超越性</a>を世界で初めて実証したと発表し、ピチャイは<a href="/wiki/%E5%9C%B0%E7%90%83" title="地球">地球</a>から最初に飛び立った<a class="mw-redirect" href="/wiki/%E5%AE%87%E5%AE%99%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88" title="宇宙ロケット">宇宙ロケット</a>に匹敵する成果と述べた<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup>。
+</p><p>2019年12月3日、Googleの持株会社であるAlphabetのCEOに任命された。以降、AlphabetとGoogleのCEOをそれぞれ兼任する<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup>。
+</p>
+<h2><span id=".E8.84.9A.E6.B3.A8"></span><span class="mw-headline" id="脚注">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=edit&amp;section=2" title="節を編集: 脚注">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint" style="float:right; font-size:90%;"><tbody><tr><td>[<a href="/wiki/Help:%E8%84%9A%E6%B3%A8/%E8%AA%AD%E8%80%85%E5%90%91%E3%81%91" title="Help:脚注/読者向け"><span title="この欄の操作法">脚注の使い方</span></a>]</td></tr></tbody></table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><b><a href="#cite_ref-1">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://web.archive.org/web/20191226105554/https://www.reuters.com/article/us-alphabet-google-factbox-idUSKBN1Y72PS" rel="nofollow">Factbox: New Alphabet chief started at Google, made name with Android</a>”.   Reuters (2019年12月4日). 2019年12月26日時点の<a class="external text" href="https://www.reuters.com/article/us-alphabet-google-factbox-idUSKBN1Y72PS" rel="nofollow">オリジナル</a>よりアーカイブ。<span title="">2022年6月26日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-forbesjapan-2">^ <a href="#cite_ref-forbesjapan_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-forbesjapan_2-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><cite class="citation news" style="font-style:normal"><a class="external text" href="https://forbesjapan.com/articles/detail/7649/1/1/1" rel="nofollow">“インド出身のグーグル新CEO　サンダー・ピチャイが愛される理由”</a> (日本語). <i>Forbes JAPAN（フォーブス ジャパン）</i>. (2015年8月16日)<span style="display:none;">. <a class="external free" href="https://forbesjapan.com/articles/detail/7649/1/1/1" rel="nofollow">https://forbesjapan.com/articles/detail/7649/1/1/1</a></span> <span class="reference-accessdate"><span title="">2018年10月26日</span>閲覧。</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%E3%82%A4%E3%83%B3%E3%83%89%E5%87%BA%E8%BA%AB%E3%81%AE%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E6%96%B0CEO%E3%80%80%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4%E3%81%8C%E6%84%9B%E3%81%95%E3%82%8C%E3%82%8B%E7%90%86%E7%94%B1&amp;rft.jtitle=Forbes+JAPAN%EF%BC%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%96%E3%82%B9+%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%EF%BC%89&amp;rft.date=2015%E5%B9%B48%E6%9C%8816%E6%97%A5&amp;rft_id=https%3A%2F%2Fforbesjapan.com%2Farticles%2Fdetail%2F7649%2F1%2F1%2F1&amp;rfr_id=info:sid/ja.wikipedia.org:%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4"><span style="display: none;"> </span></span></span>
+</li>
+<li id="cite_note-:0-3"><b><a href="#cite_ref-:0_3-0">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">株式会社インプレス (2022年10月7日). “<a class="external text" href="https://k-tai.watch.impress.co.jp/docs/news/1445892.html" rel="nofollow">グーグルのピチャイCEO、日本の発表会に登場</a>” (日本語). <i>ケータイ Watch</i>. <span title="">2022年10月9日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-4"><b><a href="#cite_ref-4">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://web.archive.org/web/20221222094841/https://wired.jp/2015/08/12/sundar-pichai-google-new-ceo/" rel="nofollow">グーグル新CEO、サンダー・ピチャイとは何者か</a>”. <i>WIRED.jp</i>.   Condé Nast Japan (2015年8月12日). 2022年12月22日時点の<a class="external text" href="https://wired.jp/2015/08/12/sundar-pichai-google-new-ceo/" rel="nofollow">オリジナル</a>よりアーカイブ。<span title="">2022年12月22日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-5"><b><a href="#cite_ref-5">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://web.archive.org/web/20221222095545/https://thebridge.jp/2015/08/google-alphabet-pickupnews" rel="nofollow">米Googleの新CEOにSundar Pichai氏が就任へ、新会社Alphabet設立も</a>”.   BRIDGE (2015年8月11日). 2022年12月22日時点の<a class="external text" href="https://thebridge.jp/2015/08/google-alphabet-pickupnews" rel="nofollow">オリジナル</a>よりアーカイブ。<span title="">2022年12月22日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://web.archive.org/web/20221222095156/https://japan.zdnet.com/article/35068735/" rel="nofollow">グーグルの大規模再編--新会社Alphabet設立の狙いは</a>”. <i>ZDNet Japan</i> (2015年8月12日). 2022年12月22日時点の<a class="external text" href="https://japan.zdnet.com/article/35068735/" rel="nofollow">オリジナル</a>よりアーカイブ。<span title="">2022年12月22日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-7"><b><a href="#cite_ref-7">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://www.nikkan.co.jp/articles/view/00485181" rel="nofollow">【電子版】グーグルの中国再参入計画「監視せよ」　検閲対応検索に社員千人超が抗議</a>”.   <a href="/wiki/%E6%97%A5%E5%88%8A%E5%B7%A5%E6%A5%AD%E6%96%B0%E8%81%9E" title="日刊工業新聞">日刊工業新聞</a> (2018年8月18日). <span title="">2018年8月19日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-dragonfly-8"><b><a href="#cite_ref-dragonfly_8-0">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://japan.cnet.com/article/35127154/" rel="nofollow">グーグルのCEO、中国向け検索エンジンの計画を初めて認める--意図も明らかに</a>”.   CNET (2018年10月18日). <span title="">2019年4月10日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://gigazine.net/news/20180602-google-project-maven-mail-leaked/" rel="nofollow">GoogleのAIを軍事活用する極秘計画「Project Maven」の関係者による生々しい内部メールが流出</a>”.   <a href="/wiki/%E3%82%AE%E3%82%BA%E3%83%A2%E3%83%BC%E3%83%89" title="ギズモード">ギズモード</a> (2018年6月2日). <span title="">2019年1月1日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://www.gizmodo.jp/2018/12/the-biggest-tech-lies-of-2018.html" rel="nofollow">2018年テック界の嘘ワースト8</a>”.   <a href="/wiki/%E3%82%AE%E3%82%BA%E3%83%A2%E3%83%BC%E3%83%89" title="ギズモード">ギズモード</a> (2018年12月30日). <span title="">2018年12月31日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://www.nikkei.com/article/DGXMZO42491790V10C19A3FF8000/" rel="nofollow">米軍制服組トップ、グーグルに懸念「中国軍に恩恵」</a>”.   <a href="/wiki/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E" title="日本経済新聞">日本経済新聞</a> (2019年3月15日). <span title="">2019年3月20日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-12"><b><a href="#cite_ref-12">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://www.bloomberg.co.jp/news/articles/2019-03-17/POJ3FB6K50XS01" rel="nofollow">Googleは米国でなく中国の軍事力を助けている－トランプ大統領が批判</a>”.   <a href="/wiki/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E" title="日本経済新聞">日本経済新聞</a> (2019年3月18日). <span title="">2019年4月10日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-13"><b><a href="#cite_ref-13">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://www.nikkei.com/article/DGKKZO43480420Y9A400C1TCR000/" rel="nofollow">（The Economist）対中ビジネスが問う米企業の正義</a>”.   <a href="/wiki/%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E" title="日本経済新聞">日本経済新聞</a> (2019年4月9日). <span title="">2019年4月10日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-14"><b><a href="#cite_ref-14">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://www.engadget.com/2019/10/24/the-morning-after/" rel="nofollow">The Morning After: Google claims 'quantum supremacy'</a>”.   <a href="/wiki/Engadget" title="Engadget">engadget</a> (2019年10月24日). <span title="">2019年10月25日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-15"><b><a href="#cite_ref-15">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://jp.reuters.com/article/alphabet-quantum-idJPKBN1X22CP" rel="nofollow">米グーグル、「量子超越性」達成と発表　スパコン超える</a>”.   <a href="/wiki/%E3%83%AD%E3%82%A4%E3%82%BF%E3%83%BC" title="ロイター">ロイター</a> (2019年10月23日). <span title="">2019年10月25日</span>閲覧。</cite></span>
+</li>
+<li id="cite_note-16"><b><a href="#cite_ref-16">^</a></b> <span class="reference-text"><cite class="citation web" style="font-style:normal">“<a class="external text" href="https://abc.xyz/" rel="nofollow">Alphabet Investor Relations</a>” (英語). <i>Alphabet Investor Relations</i>. <span title="">2019年12月3日</span>閲覧。</cite></span>
+</li>
+</ol></div>
+<h2><span id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"></span><span class="mw-headline" id="外部リンク">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;action=edit&amp;section=3" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a class="external text" href="https://blog.google/perspectives/sundar-pichai/" rel="nofollow">Sundar Pichai｜Google Blog</a></span></span></li>
+<li><a class="external text" href="https://twitter.com/sundarpichai" rel="nofollow">Sundar Pichai</a> (@sundarpichai) - <a href="/wiki/Twitter" title="Twitter">Twitter</a></li>
+<li><a class="external text" href="https://www.instagram.com/sundarpichai/" rel="nofollow">Sundar Pichai</a> (@sundarpichai) - <a href="/wiki/Instagram" title="Instagram">Instagram</a></li></ul>
+<div aria-labelledby="Google" class="navbox" style="border-collapse:collapse;padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="background:transparent;color:inherit;min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th class="navbox-title" colspan="3" scope="col"><div style="float:left;width:6em;text-align:left"><div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;;border:none;"><ul style="display:inline"><li><a href="/wiki/Template:Google_Inc." title="Template:Google Inc."><span style="font-size:125%;;;border:none;" title="このテンプレートを表示します">表</span></a></li><li><a href="/wiki/Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:Google_Inc." title="Template‐ノート:Google Inc."><span style="font-size:125%;color:#002bb8;;;border:none;" title="このテンプレートのノートを表示します">話</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3AGoogle_Inc.&amp;action=edit"><span style="font-size:125%;color:#002bb8;;;border:none;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3AGoogle_Inc.&amp;action=history"><span style="font-size:125%;color:#002bb8;;;border:none;" title="このテンプレートの過去の版を表示します">歴</span></a></li></ul></div></div><div id="Google" style="font-size:110%;margin:0 6em"><a href="/wiki/Google" title="Google">Google</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="3">
+<ul><li><a class="mw-redirect" href="/wiki/Alphabet_(%E4%BC%81%E6%A5%AD)" title="Alphabet (企業)">Alphabet</a></li>
+<li><a href="/wiki/Google#歴史" title="Google">歴史</a></li>
+<li><a href="/wiki/Google%E3%81%AE%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9" title="Googleのサービス">サービス</a></li></ul></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">企業</th><td class="navbox-list navbox-odd hlist-slash" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">イベント・取り組み</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Android
+<ul><li><a href="/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Android (オペレーティングシステム)">Developer Challenge</a></li>
+<li><a href="/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Android (オペレーティングシステム)">Developer Day</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Android_Developer_Lab&amp;action=edit&amp;redlink=1" title="Android Developer Lab (存在しないページ)">Developer Lab</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Android_Developer_Lab" title="en:Android Developer Lab">英語版</a>）</span></span></li></ul></li>
+<li><a href="/wiki/Doodle4Google" title="Doodle4Google">Doodle4Google</a></li>
+<li><a href="/wiki/Google_Code-in" title="Google Code-in">Code-in</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Code_Jam&amp;action=edit&amp;redlink=1" title="Google Code Jam (存在しないページ)">Code Jam</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Code_Jam" title="en:Google Code Jam">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Developer_Day&amp;action=edit&amp;redlink=1" title="Google Developer Day (存在しないページ)">Developer Day</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Developer_Day" title="en:Google Developer Day">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Developers_Live&amp;action=edit&amp;redlink=1" title="Google Developers Live (存在しないページ)">Developers Live</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Developers_Live" title="en:Google Developers Live">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_I/O" title="Google I/O">I/O</a></li>
+<li><a href="/wiki/Google_Lunar_X_Prize" title="Google Lunar X Prize">Lunar X Prize</a><sup>*</sup></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Science_Fair&amp;action=edit&amp;redlink=1" title="Google Science Fair (存在しないページ)">Science Fair</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Science_Fair" title="en:Google Science Fair">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Summer_of_Code" title="Google Summer of Code">Summer of Code</a></li>
+<li><a href="/wiki/Google" title="Google">Talks at Google</a></li>
+<li>取り組み・プロジェクト
+<ul><li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_ATAP&amp;action=edit&amp;redlink=1" title="Google ATAP (存在しないページ)">ATAP</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_ATAP" title="en:Google ATAP">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A4_(%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)" title="ドラゴンフライ (検索エンジン)">ドラゴンフライ</a><sup>*</sup></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Made_with_Code&amp;action=edit&amp;redlink=1" title="Made with Code (存在しないページ)">Made with Code</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Made_with_Code" title="en:Made with Code">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Project_Sunroof&amp;action=edit&amp;redlink=1" title="Project Sunroof (存在しないページ)">Project Sunroof</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Project_Sunroof" title="en:Project Sunroof">英語版</a>）</span></span></li>
+<li>Cultural Institute</li>
+<li><a href="/wiki/%E9%82%AA%E6%82%AA%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%AA" title="邪悪になるな">「邪悪になるな」</a></li>
+<li><a href="/wiki/OKR" title="OKR">OKR</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">人物</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%81%E3%82%A7%E3%83%AA%E3%83%88%E3%83%B3" title="デビッド・チェリトン">デビッド・チェリトン</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%82%B4%E3%82%A2" title="アル・ゴア">アル・ゴア</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%B9" title="アラン・ユースタス">アラン・ユースタス</a></li>
+<li><a href="/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%A0%E3%83%A9%E3%83%BC%E3%83%AA%E3%83%BC" title="アラン・ムラーリー">アラン・ムラーリー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%A2%E3%83%9F%E3%83%83%E3%83%88%E3%83%BB%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%AB&amp;action=edit&amp;redlink=1" title="アミット・シングハル (存在しないページ)">アミット・シングハル</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Amit_Singhal" title="en:Amit Singhal">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%A1%E3%82%A4%E3%82%B6%E3%83%BC_(%E7%B5%8C%E5%96%B6%E8%80%85)&amp;action=edit&amp;redlink=1" title="アン・メイザー (経営者) (存在しないページ)">アン・メイザー</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Ann_Mather" title="en:Ann Mather">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%83%89%E3%83%A9%E3%83%A2%E3%83%B3%E3%83%89&amp;action=edit&amp;redlink=1" title="デビッド・ドラモンド (存在しないページ)">デビッド・ドラモンド</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/David_Drummond_(businessman)" title="en:David Drummond (businessman)">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88" title="エリック・シュミット">エリック・シュミット</a></li>
+<li><a href="/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3" title="ジェフ・ディーン">ジェフ・ディーン</a></li>
+<li><a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BC%E3%82%A2" title="ジョン・ドーア">ジョン・ドーア</a></li>
+<li><a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%B3%E3%82%B1" title="ジョン・ハンケ">ジョン・ハンケ</a></li>
+<li><a href="/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%98%E3%83%8D%E3%82%B7%E3%83%BC" title="ジョン・ヘネシー">ジョン・ヘネシー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%AF%E3%83%AA%E3%82%B7%E3%83%A5%E3%83%8A%E3%83%BB%E3%83%90%E3%83%8F%E3%83%A9%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" title="クリシュナ・バハラット (存在しないページ)">クリシュナ・バハラット</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Krishna_Bharat" title="en:Krishna Bharat">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%83%E3%83%88%E3%83%BB%E3%82%AB%E3%83%83%E3%83%84" title="マット・カッツ">マット・カッツ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%94%E3%82%B7%E3%82%A7%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" title="パトリック・ピシェット (存在しないページ)">パトリック・ピシェット</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Patrick_Pichette" title="en:Patrick Pichette">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%83%8B" title="ポール・オッテリーニ">ポール・オッテリーニ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%AA%E3%83%9F%E3%83%83%E3%83%89%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%87%E3%82%B9%E3%82%BF%E3%83%8B&amp;action=edit&amp;redlink=1" title="オミッド・コーデスタニ (存在しないページ)">オミッド・コーデスタニ</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Omid_Kordestani" title="en:Omid Kordestani">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%AC%E3%82%A4%E3%83%81%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%84%E3%83%88%E3%83%B3&amp;action=edit&amp;redlink=1" title="レイチェル・ウェッツトン (存在しないページ)">レイチェル・ウェッツトン</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Rachel_Whetstone" title="en:Rachel Whetstone">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%A9%E3%83%A0" title="ラム・シュリラム">ラム・シュリラム</a></li>
+<li><a href="/wiki/%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%84%E3%83%AF%E3%82%A4%E3%83%AB" title="レイ・カーツワイル">レイ・カーツワイル</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%B5%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%AB%E3%83%9E%E3%83%B3%E3%82%AC%E3%83%BC&amp;action=edit&amp;redlink=1" title="サラー・カマンガー (存在しないページ)">サラー・カマンガー</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Salar_Kamangar" title="en:Salar Kamangar">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%B5%E3%83%B3%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%B2%E3%83%9E%E3%83%AF%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" title="サンジェイ・ゲマワット (存在しないページ)">サンジェイ・ゲマワット</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Sanjay_Ghemawat" title="en:Sanjay Ghemawat">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A3%E3%83%AB%E3%83%9E%E3%83%B3&amp;action=edit&amp;redlink=1" title="シャーリー・ティルマン (存在しないページ)">シャーリー・ティルマン</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Shirley_M._Tilghman" title="en:Shirley M. Tilghman">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%B9%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A9%E3%82%B7%E3%83%83%E3%82%AD%E3%83%BC" title="スーザン・ウォシッキー">スーザン・ウォシッキー</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%82%A6%E3%83%AB%E3%82%B9%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%83%AB&amp;action=edit&amp;redlink=1" title="ウルス・ヘルツル (存在しないページ)">ウルス・ヘルツル</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Urs_H%C3%B6lzle" title="en:Urs Hölzle">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%88%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%95" title="ヴィントン・サーフ">ヴィントン・サーフ</a></li>
+<li><a href="/wiki/%E3%83%8F%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%A2%E3%83%B3" title="ハル・ヴァリアン">ハル・ヴァリアン</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">役員</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">サンダー・ピチャイ</a> (CEO)</li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%A9%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" title="ルース・ポラット (存在しないページ)">ルース・ポラット</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Ruth_Porat" title="en:Ruth Porat">英語版</a>）</span></span> (CFO)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">創業者</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9A%E3%82%A4%E3%82%B8" title="ラリー・ペイジ">ラリー・ペイジ</a></li>
+<li><a href="/wiki/%E3%82%BB%E3%83%AB%E3%82%B2%E3%82%A4%E3%83%BB%E3%83%96%E3%83%AA%E3%83%B3" title="セルゲイ・ブリン">セルゲイ・ブリン</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">部門</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Android (オペレーティングシステム)">Android</a></li>
+<li><a href="/wiki/Google_Glass" title="Google Glass">Glass</a></li>
+<li><a href="/wiki/Google_%E5%BA%83%E5%91%8A" title="Google 広告">Google Ads</a> (広告)</li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_AI&amp;action=edit&amp;redlink=1" title="Google AI (存在しないページ)">Google AI</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_AI" title="en:Google AI">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Google Chrome</a></li>
+<li><a href="/wiki/Google_Cloud_Platform" title="Google Cloud Platform">Google Cloud</a></li>
+<li><a href="/wiki/Google_Health" title="Google Health">Google Health</a></li>
+<li><a href="/wiki/Google_%E3%83%9E%E3%83%83%E3%83%97" title="Google マップ">Google Maps</a> (マップ)</li>
+<li><a href="/wiki/Google_Nest" title="Google Nest">Google Nest</a></li>
+<li><a href="/wiki/Google_Pixel" title="Google Pixel">Google Pixel</a></li>
+<li><a href="/wiki/Google_%E6%A4%9C%E7%B4%A2" title="Google 検索">Google Search</a> (検索)</li>
+<li><a href="/wiki/YouTube" title="YouTube">YouTube</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">不動産</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=111_Eighth_Avenue&amp;action=edit&amp;redlink=1" title="111 Eighth Avenue (存在しないページ)">111 Eighth Avenue</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/111_Eighth_Avenue" title="en:111 Eighth Avenue">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88&amp;action=edit&amp;redlink=1" title="チェルシーマーケット (存在しないページ)">チェルシーマーケット</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Chelsea_Market" title="en:Chelsea Market">英語版</a>）</span></span></li>
+<li><a href="/wiki/Googleplex" title="Googleplex">Googleplex</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Data_Centers&amp;action=edit&amp;redlink=1" title="Google Data Centers (存在しないページ)">Data Centers</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Data_Centers" title="en:Google Data Centers">英語版</a>）</span></span></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr></tbody></table><div>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><img alt="" data-file-height="92" data-file-width="272" decoding="async" height="34" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/100px-Google_2015_logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/150px-Google_2015_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png 2x" width="100"/></div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">開発</th><td class="navbox-list navbox-even hlist-slash" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">オペレーティングシステム</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Android (オペレーティングシステム)">Android</a>
+<ul><li><a href="/wiki/Android_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Android (オペレーティングシステム)">Automotive</a></li>
+<li><a href="/wiki/Android_TV" title="Android TV">TV</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_Wear" title="Android Wear">Wear</a></li></ul></li>
+<li><a href="/wiki/ChromeOS" title="ChromeOS">ChromeOS</a></li>
+<li><a href="/wiki/Chromium_OS" title="Chromium OS">Chromium OS</a></li>
+<li><a href="/wiki/Fuchsia_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Fuchsia (オペレーティングシステム)">Fuchsia</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Glass_OS&amp;action=edit&amp;redlink=1" title="Glass OS (存在しないページ)">Glass OS</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Glass_OS" title="en:Glass OS">英語版</a>）</span></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">ライブラリ・<br/>フレームワーク</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Accelerated_Mobile_Pages" title="Accelerated Mobile Pages">AMP</a></li>
+<li>Angular
+<ul><li><a href="/wiki/Angular" title="Angular">Angular</a></li>
+<li><a href="/wiki/AngularJS" title="AngularJS">AngularJS</a></li></ul></li>
+<li><a href="/wiki/ARCore" title="ARCore">ARCore</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_APIs&amp;action=edit&amp;redlink=1" title="Google APIs (存在しないページ)">APIs</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_APIs" title="en:Google APIs">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Charts&amp;action=edit&amp;redlink=1" title="Google Charts (存在しないページ)">Charts</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Charts" title="en:Google Charts">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Dialogflow&amp;action=edit&amp;redlink=1" title="Dialogflow (存在しないページ)">Dialogflow</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Dialogflow" title="en:Dialogflow">英語版</a>）</span></span></li>
+<li><a href="/wiki/Federated_Learning_of_Cohorts" title="Federated Learning of Cohorts">FLoC</a></li>
+<li><a href="/wiki/Flutter" title="Flutter">Flutter</a></li>
+<li><a href="/wiki/Google_Guava" title="Google Guava">Guava</a></li>
+<li><a href="/wiki/Google_Guice" title="Google Guice">Guice</a></li>
+<li><a href="/wiki/Polymer" title="Polymer">Polymer</a>
+<ul><li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Web_Components&amp;action=edit&amp;redlink=1" title="Google Web Components (存在しないページ)">Web Components</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Web_Components" title="en:Google Web Components">英語版</a>）</span></span></li></ul></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Tango_(%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0)&amp;action=edit&amp;redlink=1" title="Tango (プラットフォーム) (存在しないページ)">Tango</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Tango_(platform)" title="en:Tango (platform)">英語版</a>）</span></span><sup>*</sup></li>
+<li><a href="/wiki/TensorFlow" title="TensorFlow">TensorFlow</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">ツール</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Android_Studio" title="Android Studio">Android Studio</a></li>
+<li><a href="/wiki/App_Inventor" title="App Inventor">App Inventor</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_App_Maker&amp;action=edit&amp;redlink=1" title="Google App Maker (存在しないページ)">App Maker</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_App_Maker" title="en:Google App Maker">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google" title="Google">Closure Tools</a></li>
+<li><a href="/wiki/Google_Developers" title="Google Developers">Developers</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Gadgets&amp;action=edit&amp;redlink=1" title="Google Gadgets (存在しないページ)">Gadgets API</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Gadgets" title="en:Google Gadgets">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=GData&amp;action=edit&amp;redlink=1" title="GData (存在しないページ)">GData</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/GData" title="en:GData">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Lighthouse&amp;action=edit&amp;redlink=1" title="Google Lighthouse (存在しないページ)">Lighthouse</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Lighthouse" title="en:Google Lighthouse">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Native_Client" title="Google Native Client">Native Client</a><sup>*</sup></li>
+<li><a href="/wiki/OpenRefine" title="OpenRefine">OpenRefine</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=PageSpeed_Insights&amp;action=edit&amp;redlink=1" title="PageSpeed Insights (存在しないページ)">PageSpeed Insights</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/PageSpeed_Insights" title="en:PageSpeed Insights">英語版</a>）</span></span></li>
+<li><a href="/wiki/ReCAPTCHA" title="ReCAPTCHA">reCAPTCHA</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Search_Console&amp;action=edit&amp;redlink=1" title="Google Search Console (存在しないページ)">Search Console</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Search_Console" title="en:Google Search Console">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Swiffy&amp;action=edit&amp;redlink=1" title="Google Swiffy (存在しないページ)">Swiffy</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Swiffy" title="en:Google Swiffy">英語版</a>）</span></span><sup>*</sup></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Web Toolkit</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">探索アルゴリズム</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%A9%E3%83%B3%E3%82%AF" title="ページランク">ページランク</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Hummingbird&amp;action=edit&amp;redlink=1" title="Google Hummingbird (存在しないページ)">Hummingbird</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Hummingbird" title="en:Google Hummingbird">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Panda" title="Google Panda">Panda</a></li>
+<li><a href="/wiki/Google_Penguin" title="Google Penguin">Penguin</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Pigeon&amp;action=edit&amp;redlink=1" title="Google Pigeon (存在しないページ)">Pigeon</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Pigeon" title="en:Google Pigeon">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_RankBrain&amp;action=edit&amp;redlink=1" title="Google RankBrain (存在しないページ)">RankBrain</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_RankBrain" title="en:Google RankBrain">英語版</a>）</span></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">ファイルフォーマット</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/APK_(%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%BD%A2%E5%BC%8F)" title="APK (ファイル形式)">APK</a></li>
+<li><a href="/wiki/KML" title="KML">KML</a></li>
+<li><a href="/wiki/VP9" title="VP9">VP9</a>
+<ul><li><a href="/wiki/AV1" title="AV1">AV1</a></li></ul></li>
+<li><a href="/wiki/WebM" title="WebM">WebM</a></li>
+<li><a href="/wiki/WebP" title="WebP">WebP</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">その他</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome Experiments</a></li>
+<li><a href="/wiki/Google_Cloud_Platform" title="Google Cloud Platform">Cloud Platform</a>
+<ul><li><a href="/wiki/Google_App_Engine" title="Google App Engine">App Engine</a></li>
+<li><a href="/wiki/BigTable" title="BigTable">BigTable</a></li>
+<li><a href="/wiki/Spanner_(%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)" title="Spanner (データベース)">Cloud Spanner</a></li></ul></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Data_Transfer_Project&amp;action=edit&amp;redlink=1" title="Data Transfer Project (存在しないページ)">Data Transfer Project</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Data_Transfer_Project" title="en:Data Transfer Project">英語版</a>）</span></span></li>
+<li><a href="/wiki/DeepMind" title="DeepMind">DeepMind</a></li>
+<li><a href="/wiki/Google_Fiber" title="Google Fiber">Fiber</a></li>
+<li><a href="/wiki/Gears_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)" title="Gears (ソフトウェア)">Gears</a><sup>*</sup></li>
+<li><a href="/wiki/Google_File_System" title="Google File System">GFS</a></li>
+<li><a href="/wiki/Google_Health" title="Google Health">Health</a></li>
+<li><a href="/wiki/Google_Labs" title="Google Labs">Labs</a><sup>*</sup></li>
+<li><a href="/wiki/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="マテリアルデザイン">マテリアルデザイン</a></li>
+<li><a href="/wiki/MapReduce" title="MapReduce">MapReduce</a></li>
+<li><a href="/wiki/OpenSocial" title="OpenSocial">OpenSocial</a></li>
+<li><a href="/wiki/Google_Public_DNS" title="Google Public DNS">Public DNS</a></li>
+<li><a href="/wiki/%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%83%BC%E3%83%90" title="グーグル・ウェブサーバ">Web Server</a></li>
+<li>プログラミング言語
+<ul><li><a href="/wiki/Dart" title="Dart">Dart</a></li>
+<li><a href="/wiki/Go_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)" title="Go (プログラミング言語)">Go</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Sawzall_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)&amp;action=edit&amp;redlink=1" title="Sawzall (プログラミング言語) (存在しないページ)">Sawzall</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Sawzall_(programming_language)" title="en:Sawzall (programming language)">英語版</a>）</span></span><sup>*</sup></li></ul></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">サービス</th><td class="navbox-list navbox-odd hlist-slash" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">娯楽</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromecast" title="Chromecast">Chromecast</a></li>
+<li><a href="/wiki/Google_Play" title="Google Play">Play</a>
+<ul><li><a class="mw-redirect" href="/wiki/Google_Play_%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9" title="Google Play ブックス">ブックス</a></li>
+<li><a href="/wiki/Google_Play" title="Google Play">ゲーム</a></li>
+<li><a class="mw-redirect" href="/wiki/Google_Play_%E3%83%A0%E3%83%BC%E3%83%93%E3%83%BC" title="Google Play ムービー">ムービー</a></li>
+<li><a href="/wiki/Google_Play_Music" title="Google Play Music">ミュージック</a><sup>*</sup></li>
+<li><a class="mw-redirect" href="/wiki/Google_Play_%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89" title="Google Play ニューススタンド">ニューススタンド</a><sup>*</sup></li></ul></li>
+<li><a href="/wiki/Google_%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88" title="Google ポッドキャスト">ポッドキャスト</a></li>
+<li><a href="/wiki/Google_%E3%82%B5%E3%83%B3%E3%82%BF%E3%82%92%E8%BF%BD%E3%81%84%E3%81%8B%E3%81%91%E3%82%88%E3%81%86" title="Google サンタを追いかけよう">サンタを追いかけよう</a></li>
+<li><a href="/wiki/Google_Stadia" title="Google Stadia">Stadia</a></li>
+<li><a href="/wiki/Google_TV_(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)" title="Google TV (オペレーティングシステム)">Google TV</a></li>
+<li><a href="/wiki/VEVO" title="VEVO">VEVO</a></li>
+<li><a href="/wiki/YouTube" title="YouTube">YouTube</a>
+<ul><li>Gaming<sup>*</sup></li>
+<li><a href="/wiki/YouTube_Kids" title="YouTube Kids">Kids</a></li>
+<li><a href="/wiki/YouTube_Music" title="YouTube Music">Music</a></li></ul></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">伝達・交流</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Chat" title="Google Chat">Chat</a></li>
+<li><a href="/wiki/Google_Contacts" title="Google Contacts">Contacts</a></li>
+<li><a href="/wiki/Google_Duo" title="Google Duo">Duo</a></li>
+<li><a href="/wiki/Gmail" title="Gmail">Gmail</a></li>
+<li><a href="/wiki/Google_%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97" title="Google グループ">グループ</a></li>
+<li><a href="/wiki/Google_%E3%83%8F%E3%83%B3%E3%82%B0%E3%82%A2%E3%82%A6%E3%83%88" title="Google ハングアウト">ハングアウト</a>
+<ul><li><a href="/wiki/Google_%E3%83%88%E3%83%BC%E3%82%AF" title="Google トーク">トーク</a><sup>*</sup></li></ul></li>
+<li>IME
+<ul><li><a href="/wiki/Google_%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%85%A5%E5%8A%9B" title="Google 日本語入力">日本語入力</a></li>
+<li><a href="/wiki/Google_%E3%83%94%E3%83%B3%E3%82%A4%E3%83%B3%E5%85%A5%E5%8A%9B" title="Google ピンイン入力">ピンイン入力</a></li></ul></li>
+<li><a href="/wiki/Gmail" title="Gmail">Inbox</a><sup>*</sup></li>
+<li><a href="/wiki/Google_Meet" title="Google Meet">Meet</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Messages_(Google)&amp;action=edit&amp;redlink=1" title="Messages (Google) (存在しないページ)">Messages</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Messages_(Google)" title="en:Messages (Google)">英語版</a>）</span></span></li>
+<li><a href="/wiki/Orkut" title="Orkut">Orkut</a><sup>*</sup></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Spaces&amp;action=edit&amp;redlink=1" title="Google Spaces (存在しないページ)">Spaces</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Spaces" title="en:Google Spaces">英語版</a>）</span></span><sup>*</sup></li>
+<li><a href="/wiki/Google_%E7%BF%BB%E8%A8%B3" title="Google 翻訳">翻訳</a></li>
+<li><a href="/wiki/Google_%E3%83%9C%E3%82%A4%E3%82%B9" title="Google ボイス">ボイス</a></li>
+<li><a href="/wiki/Google%2B" title="Google+">Google+</a><sup>*</sup></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">検索</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88" title="Google アラート">アラート</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_%E3%83%96%E3%83%AD%E3%82%B0%E6%A4%9C%E7%B4%A2&amp;action=edit&amp;redlink=1" title="Google ブログ検索 (存在しないページ)">ブログ検索</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Blog_Search" title="en:Google Blog Search">英語版</a>）</span></span><sup>*</sup></li>
+<li><a href="/wiki/Google_%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9" title="Google ブックス">ブックス</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Dataset_Search&amp;action=edit&amp;redlink=1" title="Google Dataset Search (存在しないページ)">データセット検索</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Dataset_Search" title="en:Google Dataset Search">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Dictionary&amp;action=edit&amp;redlink=1" title="Google Dictionary (存在しないページ)">Dictionary</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Dictionary" title="en:Google Dictionary">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88&amp;action=edit&amp;redlink=1" title="Google フライト (存在しないページ)">フライト</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Flights" title="en:Google Flights">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Finance" title="Google Finance">Finance</a></li>
+<li><a href="/wiki/Googlebot" title="Googlebot">Googlebot</a></li>
+<li><a href="/wiki/Google_%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2" title="Google 画像検索">画像検索</a></li>
+<li><a href="/wiki/Google_%E3%83%9E%E3%83%83%E3%83%97" title="Google マップ">マップ</a>
+<ul><li><a href="/wiki/Google_%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC" title="Google ストリートビュー">ストリートビュー</a></li>
+<li><a href="/wiki/Google_%E3%83%9E%E3%83%83%E3%83%97%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" title="Google マップメーカー">マップメーカー</a><sup>*</sup></li>
+<li><a href="/wiki/Google_%E3%83%93%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0_%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC" title="Google ビルディング メーカー">ビルディング メーカー</a><sup>*</sup></li></ul></li>
+<li><a href="/wiki/Google_%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9" title="Google ニュース">ニュース</a>
+<ul><li><a href="/wiki/Google_News_Archive_Search" title="Google News Archive Search">News Archive Search</a><sup>*</sup></li></ul></li>
+<li><a href="/wiki/Google_Patents" title="Google Patents">Patents</a></li>
+<li><a href="/wiki/Google" title="Google">Google Public Data Explorer</a></li>
+<li><a href="/wiki/Google_Scholar" title="Google Scholar">Scholar</a></li>
+<li><a href="/wiki/Google_%E6%A4%9C%E7%B4%A2" title="Google 検索">検索</a>
+<ul><li><a href="/wiki/Google_%E3%83%8A%E3%83%AC%E3%83%83%E3%82%B8%E3%82%B0%E3%83%A9%E3%83%95" title="Google ナレッジグラフ">ナレッジグラフ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%A9%E3%82%A4%E3%82%BA%E3%83%89%E6%A4%9C%E7%B4%A2_(Google)&amp;action=edit&amp;redlink=1" title="パーソナライズド検索 (Google) (存在しないページ)">パーソナライズド検索</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Personalized_Search" title="en:Google Personalized Search">英語版</a>）</span></span></li>
+<li><a href="/wiki/%E3%82%BB%E3%83%BC%E3%83%95%E3%82%B5%E3%83%BC%E3%83%81" title="セーフサーチ">セーフサーチ</a></li>
+<li><a href="/wiki/Google_%E6%A4%9C%E7%B4%A2" title="Google 検索">音声検索 (Google)</a></li></ul></li>
+<li><a href="/wiki/Google_%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0" title="Google ショッピング">ショッピング</a></li>
+<li><a href="/wiki/Google_%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E6%A4%9C%E7%B4%A2" title="Google ソースコード検索">ソースコード検索</a><sup>*</sup></li>
+<li><a href="/wiki/Google_%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97" title="Google デスクトップ">デスクトップ</a><sup>*</sup></li>
+<li><a href="/wiki/Find_My_Device" title="Find My Device">デバイスを探す</a></li>
+<li><a href="/wiki/Google_Trends" title="Google Trends">トレンド</a>
+<ul><li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Insights_for_Search&amp;action=edit&amp;redlink=1" title="Google Insights for Search (存在しないページ)">Insights for Search</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Insights_for_Search" title="en:Google Insights for Search">英語版</a>）</span></span><sup>*</sup></li></ul></li>
+<li><a href="/wiki/Google_%E3%83%93%E3%83%87%E3%82%AA" title="Google ビデオ">ビデオ</a></li>
+<li><a href="/wiki/GOOG-411" title="GOOG-411">GOOG-411</a><sup>*</sup></li>
+<li><a href="/wiki/%E8%B0%B7%E6%AD%8C" title="谷歌">谷歌</a> (中国版Google)</li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">組織・管理</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC" title="Google カレンダー">カレンダー</a></li>
+<li><a href="/wiki/Google_%E3%83%95%E3%82%A9%E3%83%88" title="Google フォト">フォト</a></li>
+<li><a href="/wiki/Google_%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96" title="Google ドライブ">ドライブ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88_%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF&amp;action=edit&amp;redlink=1" title="Google ドキュメント エディタ (存在しないページ)">ドキュメント エディタ</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Docs_Editors" title="en:Google Docs Editors">英語版</a>）</span></span>
+<ul><li><a href="/wiki/Google_%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88" title="Google ドキュメント">ドキュメント</a></li>
+<li><a href="/wiki/Google_%E3%82%B9%E3%83%97%E3%83%AC%E3%83%83%E3%83%89%E3%82%B7%E3%83%BC%E3%83%88" title="Google スプレッドシート">スプレッドシート</a></li>
+<li><a href="/wiki/Google_%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89" title="Google スライド">スライド</a></li>
+<li><a href="/wiki/Google_%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0" title="Google フォーム">フォーム</a></li>
+<li><a href="/wiki/Google_%E5%9B%B3%E5%BD%A2%E6%8F%8F%E7%94%BB" title="Google 図形描画">図形描画</a></li></ul></li>
+<li><a href="/wiki/Google_Keep" title="Google Keep">Keep</a></li>
+<li><a href="/wiki/Google_%E3%83%8E%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF" title="Google ノートブック">ノートブック</a><sup>*</sup></li>
+<li><a href="/wiki/Google_One" title="Google One">One</a></li>
+<li><a href="/wiki/Google_Workspace" title="Google Workspace">Workspace</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">ビジネス・金融</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_%E5%BA%83%E5%91%8A" title="Google 広告">広告</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_AdMob&amp;action=edit&amp;redlink=1" title="Google AdMob (存在しないページ)">AdMob</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_AdMob" title="en:Google AdMob">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Ad_Manager&amp;action=edit&amp;redlink=1" title="Google Ad Manager (存在しないページ)">Ad Manager</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Ad_Manager" title="en:Google Ad Manager">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_AdSense" title="Google AdSense">AdSense</a></li>
+<li>マーケティング プラットフォーム
+<ul><li><a href="/wiki/Google_Analytics" title="Google Analytics">アナリティクス</a></li></ul></li>
+<li><a href="/wiki/Google_Pay" title="Google Pay">Pay</a>
+<ul><li>ウォレット<sup>*</sup></li>
+<li><a href="/wiki/Google_Checkout" title="Google Checkout">Checkout</a><sup>*</sup></li></ul></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Primer&amp;action=edit&amp;redlink=1" title="Google Primer (存在しないページ)">Primer</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Primer" title="en:Google Primer">英語版</a>）</span></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">その他</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88" title="Google アートプロジェクト">アートプロジェクト</a></li>
+<li><a href="/wiki/Google_%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88" title="Google アシスタント">アシスタント</a></li>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a></li>
+<li><a href="/wiki/Chromium" title="Chromium">Chromium</a></li>
+<li><a href="/wiki/Google_Classroom" title="Google Classroom">Classroom</a></li>
+<li><a href="/wiki/Google_Cloud_Print" title="Google Cloud Print">クラウド プリント</a></li>
+<li><a href="/wiki/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%BD%E3%83%BC%E3%82%B9_(%E3%82%A2%E3%83%97%E3%83%AA)" title="クラウドソース (アプリ)">クラウドソース</a></li>
+<li><a href="/wiki/Google_Doodle" title="Google Doodle">Google Doodle</a></li>
+<li><a href="/wiki/Google_Earth" title="Google Earth">Earth</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Express&amp;action=edit&amp;redlink=1" title="Google Express (存在しないページ)">Express</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Express" title="en:Google Express">英語版</a>）</span></span><sup>*</sup></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Fi&amp;action=edit&amp;redlink=1" title="Google Fi (存在しないページ)">Fi</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Fi" title="en:Google Fi">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Fit" title="Google Fit">Fit</a></li>
+<li><a href="/wiki/Gboard" title="Gboard">Gboard</a></li>
+<li><a href="/wiki/Google.org" title="Google.org">Google.org</a></li>
+<li><a href="/wiki/IGoogle" title="IGoogle">iGoogle</a><sup>*</sup></li>
+<li><a href="/wiki/Google_Now" title="Google Now">Now</a></li>
+<li><a href="/wiki/Google_%E3%83%91%E3%83%83%E3%82%AF" title="Google パック">パック</a><sup>*</sup></li>
+<li><a href="/wiki/Google_%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC" title="Google リーダー">リーダー</a><sup>*</sup></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_%E3%82%BB%E3%83%BC%E3%83%95_%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B8%E3%83%B3%E3%82%B0&amp;action=edit&amp;redlink=1" title="Google セーフ ブラウジング (存在しないページ)">セーフ ブラウジング</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Safe_Browsing" title="en:Google Safe Browsing">英語版</a>）</span></span></li>
+<li><a href="/wiki/SketchUp" title="SketchUp">SketchUp</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Station&amp;action=edit&amp;redlink=1" title="Google Station (存在しないページ)">Station</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Station" title="en:Google Station">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_TalkBack" title="Google TalkBack">TalkBack</a></li>
+<li><a href="/wiki/Google_URL_Shortener" title="Google URL Shortener">URL Shortener</a><sup>*</sup></li>
+<li><a href="/wiki/VirusTotal" title="VirusTotal">VirusTotal</a></li>
+<li>画像・写真
+<ul><li><a href="/wiki/Google_%E3%82%AB%E3%83%A1%E3%83%A9" title="Google カメラ">カメラ</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_%E3%83%AC%E3%83%B3%E3%82%BA&amp;action=edit&amp;redlink=1" title="Google レンズ (存在しないページ)">レンズ</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Lens" title="en:Google Lens">英語版</a>）</span></span></li>
+<li><span title="リンク先の項目はまだ不十分なため、加筆や他言語版からの追加翻訳が望まれます。"><a href="/wiki/Snapseed" title="Snapseed">Snapseed</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Snapseed" title="en:Snapseed">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_%E3%83%95%E3%82%A9%E3%83%88" title="Google フォト">フォト</a></li>
+<li><a href="/wiki/Google_Goggles" title="Google Goggles">Goggles</a><sup>*</sup></li>
+<li><a href="/wiki/Panoramio" title="Panoramio">Panoramio</a><sup>*</sup></li>
+<li><a href="/wiki/Picasa" title="Picasa">Picasa</a><sup>*</sup></li></ul></li>
+<li>出版
+<ul><li><a href="/wiki/Blogger" title="Blogger">Blogger</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Domains&amp;action=edit&amp;redlink=1" title="Google Domains (存在しないページ)">Domains</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Domains" title="en:Google Domains">英語版</a>）</span></span></li>
+<li><a href="/wiki/FeedBurner" title="FeedBurner">FeedBurner</a></li>
+<li><a href="/wiki/Google_Sites" title="Google Sites">サイト</a></li>
+<li><a href="/wiki/Quickoffice" title="Quickoffice">Quickoffice</a><sup>*</sup></li></ul></li>
+<li>フォント
+<ul><li><a href="/wiki/Noto" title="Noto">Noto</a></li>
+<li><a href="/wiki/%E6%BA%90%E3%83%8E%E8%A7%92%E3%82%B4%E3%82%B7%E3%83%83%E3%82%AF" title="源ノ角ゴシック">源ノ角ゴシック</a></li></ul></li>
+<li><a href="/wiki/JotSpot" title="JotSpot">JotSpot</a><sup>*</sup></li>
+<li><a href="/wiki/Knol" title="Knol">Knol</a><sup>*</sup></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Category:Google%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2" title="Category:Googleのハードウェア">ハードウェア</a></th><td class="navbox-list navbox-even hlist-slash" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">Nexus</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+</div><table class="nowraplinks navbox-subgroup" style="min-width:100%;border-spacing:0px;border-collapse:separate"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div style="float:left;width:6em;text-align:left"><div class="noprint plainlinks navbar hlist" style="white-space:nowrap;font-size:60%;font-weight:normal;background-color:transparent;padding:0;color:#000;;border:none;"><ul style="display:inline"><li><a href="/wiki/Template:Google_Nexus" title="Template:Google Nexus"><span style="font-size:125%;;;border:none;" title="このテンプレートを表示します">表</span></a></li><li><a class="new" href="/w/index.php?title=Template%E2%80%90%E3%83%8E%E3%83%BC%E3%83%88:Google_Nexus&amp;action=edit&amp;redlink=1" title="Template‐ノート:Google Nexus (存在しないページ)"><span style="font-size:125%;color:#002bb8;;;border:none;" title="このテンプレートのノートを表示します">話</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3AGoogle_Nexus&amp;action=edit"><span style="font-size:125%;color:#002bb8;;;border:none;" title="このテンプレートを編集します。保存の前にプレビューを忘れずに。">編</span></a></li><li><a class="external text" href="https://ja.wikipedia.org/w/index.php?title=Template%3AGoogle_Nexus&amp;action=history"><span style="font-size:125%;color:#002bb8;;;border:none;" title="このテンプレートの過去の版を表示します">歴</span></a></li></ul></div></div><div id="Google_Nexus" style="font-size:100%;margin:0 6em"><a href="/wiki/Google_Nexus" title="Google Nexus">Google Nexus</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">スマートフォン</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nexus_One" title="Nexus One">Nexus One</a></li>
+<li><a href="/wiki/Nexus_S" title="Nexus S">Nexus S</a></li>
+<li><a href="/wiki/Galaxy_Nexus" title="Galaxy Nexus">Galaxy Nexus</a>/<a href="/wiki/SC-04D" title="SC-04D">SC-04D</a></li>
+<li><a href="/wiki/Nexus_4" title="Nexus 4">Nexus 4</a></li>
+<li><a href="/wiki/Nexus_5" title="Nexus 5">Nexus 5</a>/<a href="/wiki/EM01L" title="EM01L">EM01L</a></li>
+<li><a href="/wiki/Nexus_6" title="Nexus 6">Nexus 6</a></li>
+<li><a href="/wiki/Nexus_5X" title="Nexus 5X">Nexus 5X</a></li>
+<li><a href="/wiki/Nexus_6P" title="Nexus 6P">Nexus 6P</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">タブレット</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nexus_7_(2012)" title="Nexus 7 (2012)">Nexus 7 (2012)</a></li>
+<li><a href="/wiki/Nexus_7_(2013)" title="Nexus 7 (2013)">Nexus 7 (2013)</a></li>
+<li><a href="/wiki/Nexus_10" title="Nexus 10">Nexus 10</a></li>
+<li><a href="/wiki/Nexus_9" title="Nexus 9">Nexus 9</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">その他</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/Nexus_Q" title="Nexus Q">Nexus Q</a></li>
+<li><a href="/wiki/Nexus_Player" title="Nexus Player">Nexus Player</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;"><a href="/wiki/Google_Pixel" title="Google Pixel">Google Pixel</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pixel_(%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3)" title="Pixel (スマートフォン)">Pixel &amp; Pixel XL</a></li>
+<li><a href="/wiki/Pixel_2" title="Pixel 2">Pixel 2 &amp; Pixel 2 XL</a></li>
+<li><a href="/wiki/Pixel_3" title="Pixel 3">Pixel 3 &amp; Pixel 3 XL</a></li>
+<li><a href="/wiki/Pixel_3a" title="Pixel 3a">Pixel 3a &amp; Pixel 3a XL</a></li>
+<li><a href="/wiki/Pixel_4" title="Pixel 4">Pixel 4 &amp; Pixel 4 XL &amp; Pixel 4a</a></li>
+<li><a href="/wiki/Pixel_5" title="Pixel 5">Pixel 5</a></li>
+<li><a href="/wiki/Pixel_5a" title="Pixel 5a">Pixel 5a</a></li>
+<li><a href="/wiki/Pixel_6" title="Pixel 6">Pixel 6 &amp; Pixel 6 Pro</a></li>
+<li><a href="/wiki/Pixel_6a" title="Pixel 6a">Pixel 6a</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Pixel_C&amp;action=edit&amp;redlink=1" title="Pixel C (存在しないページ)">Pixel C</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Pixel_C" title="en:Pixel C">英語版</a>）</span></span></li>
+<li><a class="mw-redirect" href="/wiki/Chromebook_Pixel_(2013)" title="Chromebook Pixel (2013)">Chromebook Pixel (2013)</a></li>
+<li><a class="mw-redirect" href="/wiki/Chromebook_Pixel_(2015)" title="Chromebook Pixel (2015)">Chromebook Pixel (2015)</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;"><a href="/wiki/Google_Experience_Device" title="Google Experience Device">Google Play Edition</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Samsung_Galaxy_S4" title="Samsung Galaxy S4">Samsung Galaxy S4</a></li>
+<li><a class="mw-redirect" href="/wiki/HTC_One_(2013)" title="HTC One (2013)">HTC One M7</a></li>
+<li><a href="/wiki/Xperia_Z_Ultra" title="Xperia Z Ultra">Sony Z Ultra</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Motorola_Moto&amp;action=edit&amp;redlink=1" title="Motorola Moto (存在しないページ)">Motorola Moto G</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Motorola_Moto" title="en:Motorola Moto">英語版</a>）</span></span></li>
+<li><a class="mw-redirect" href="/wiki/HTC_One_(M8)" title="HTC One (M8)">HTC One M8</a></li>
+<li><a class="mw-redirect" href="/wiki/LG_G_Pad_8.3" title="LG G Pad 8.3">LG G Pad 8.3</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;"><a href="/wiki/Android_One" title="Android One">Android One</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Micromax_Canvas_A1&amp;action=edit&amp;redlink=1" title="Micromax Canvas A1 (存在しないページ)">Micromax Canvas A1</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Micromax_Canvas_A1" title="en:Micromax Canvas A1">英語版</a>）</span></span></li>
+<li><a class="new" href="/w/index.php?title=Karbonn_Sparkle_V&amp;action=edit&amp;redlink=1" title="Karbonn Sparkle V (存在しないページ)">Karbonn Sparkle V</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Spice_Dream_UNO&amp;action=edit&amp;redlink=1" title="Spice Dream UNO (存在しないページ)">Spice Dream UNO</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Spice_Dream_UNO" title="en:Spice Dream UNO">英語版</a>）</span></span></li>
+<li><a href="/wiki/Android_One_507SH" title="Android One 507SH">Android One 507SH</a></li>
+<li><a href="/wiki/Android_One_S1" title="Android One S1">Android One S1</a></li>
+<li><a href="/wiki/Android_One_S2" title="Android One S2">Android One S2</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_X1" title="Android One X1">Android One X1</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_X2" title="Android One X2">Android One X2</a></li>
+<li><a href="/wiki/Android_One_S3" title="Android One S3">Android One S3</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_X3" title="Android One X3">Android One X3</a></li>
+<li><a href="/wiki/Android_One_S4" title="Android One S4">Android One S4</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_X4" title="Android One X4">Android One X4</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_X5" title="Android One X5">Android One X5</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_S5" title="Android One S5">Android One S5</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_S6" title="Android One S6">Android One S6</a></li>
+<li><a class="mw-redirect" href="/wiki/Android_One_S7" title="Android One S7">Android One S7</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%;padding:0 0.75em;">その他</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chromebook" title="Chromebook">Chromebook</a></li>
+<li><a href="/wiki/Chromebox" title="Chromebox">Chromebox</a></li>
+<li><a href="/wiki/Chromebit" title="Chromebit">Chromebit</a></li>
+<li><a href="/wiki/Chromecast" title="Chromecast">Chromecast</a></li>
+<li>ウェアラブル
+<ul><li><a href="/wiki/Google_Cardboard" title="Google Cardboard">Cardboard</a></li>
+<li><a href="/wiki/Google_Daydream" title="Google Daydream">Daydream</a></li>
+<li><a href="/wiki/Google_Glass" title="Google Glass">Glass</a></li>
+<li><a href="/wiki/Google_%E3%82%B3%E3%83%B3%E3%82%BF%E3%82%AF%E3%83%88%E3%83%AC%E3%83%B3%E3%82%BA" title="Google コンタクトレンズ">コンタクトレンズ</a><sup>*</sup></li></ul></li>
+<li><a href="/wiki/Google_Nest" title="Google Nest">Google Nest</a>
+<ul><li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=Google_Nest_Wifi&amp;action=edit&amp;redlink=1" title="Google Nest Wifi (存在しないページ)">Nest Wifi</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Google_Nest_Wifi" title="en:Google Nest Wifi">英語版</a>）</span></span></li>
+<li><a href="/wiki/Google_Nest_(%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AB%E3%83%BC)" title="Google Nest (スマートスピーカー)">スマートスピーカー</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/X_(%E4%BC%81%E6%A5%AD)" title="X (企業)">X</a></th><td class="navbox-list navbox-odd hlist-slash" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Google_Glass" title="Google Glass">Project Glass</a></li>
+<li><a class="mw-redirect" href="/wiki/Google_%E3%82%BB%E3%83%AB%E3%83%95%E3%83%89%E3%83%A9%E3%82%A4%E3%83%93%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%BC" title="Google セルフドライビングカー">Google Self-Driving Car</a></li>
+<li><a href="/wiki/Project_Wing" title="Project Wing">Project Wing</a></li>
+<li><a href="/wiki/Project_Loon" title="Project Loon">Project Loon</a></li>
+<li><a class="mw-redirect" href="/wiki/Google_Contact_Lens" title="Google Contact Lens">Google Contact Lens</a></li>
+<li><span title="リンク先の項目はまだありません。新規の執筆や他言語版からの翻訳が望まれます。"><a class="new" href="/w/index.php?title=%E3%83%9E%E3%82%AB%E3%83%8B%E3%83%91%E3%83%AF%E3%83%BC&amp;action=edit&amp;redlink=1" title="マカニパワー (存在しないページ)">マカニパワー</a><span class="noprint" style="font-size: 0.77em; font-weight: normal;">（<a class="extiw" href="https://en.wikipedia.org/wiki/Makani_Power" title="en:Makani Power">英語版</a>）</span></span></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3">
+<ul><li><sup>*</sup>: 開発・サポートを終了した製品およびサービス</li>
+<li><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Folder_Hexagonal_Icon.svg" title="カテゴリ"><img alt="カテゴリ" data-file-height="31" data-file-width="36" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" width="16"/></a> <a href="/wiki/Category:Google" title="Category:Google">カテゴリ</a></li>
+<li><a class="image" href="/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Commons-logo.svg" title="コモンズ"><img alt="コモンズ" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Google" title="commons:Category:Google">コモンズ</a></li></ul></td></tr></tbody></table></div>
+<div aria-labelledby="典拠管理_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=ウィキデータを編集&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3503829#identifiers&amp;#124;class=noprint&amp;#124;ウィキデータを編集" class="navbox authority-control" role="navigation" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="col"><div id="典拠管理_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=ウィキデータを編集&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3503829#identifiers&amp;#124;class=noprint&amp;#124;ウィキデータを編集" style="font-size:110%;margin:0 4em"><a href="/wiki/Help:%E5%85%B8%E6%8B%A0%E7%AE%A1%E7%90%86" title="Help:典拠管理">典拠管理</a> <a href="https://www.wikidata.org/wiki/Q3503829#identifiers" title="ウィキデータを編集"><img alt="ウィキデータを編集" class="noprint" data-file-height="20" data-file-width="20" decoding="async" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" style="vertical-align: text-top" width="10"/></a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1%">全般</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-redirect" href="/wiki/VIAF_(%E8%AD%98%E5%88%A5%E5%AD%90)" title="VIAF (識別子)">VIAF</a>
+<ul><li><span class="uid"><a class="external text" href="https://viaf.org/viaf/143147118228326341516" rel="nofollow">1</a></span></li></ul></li>
+<li><span class="uid"><a class="external text" href="https://www.worldcat.org/identities/lccn-n2016246310/" rel="nofollow">WorldCat</a></span></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1%">国立図書館</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="uid"><a class="external text" href="https://id.loc.gov/authorities/names/n2016246310" rel="nofollow">アメリカ</a></span></li>
+<li><span class="uid"><a class="external text" href="http://mak.bn.org.pl/cgi-bin/KHW/makwww.exe?BM=1&amp;NU=1&amp;IM=4&amp;WI=9810608863405606" rel="nofollow">ポーランド</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2367
+Cached time: 20230211104044
+Cache expiry: 3600
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.410 seconds
+Real time usage: 0.537 seconds
+Preprocessor visited node count: 10381/1000000
+Post‐expand include size: 304416/2097152 bytes
+Template argument size: 18983/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 72/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10873/5000000 bytes
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 5433093/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  427.088      1 -total
+ 35.63%  152.189      6 Template:Navbox_subgroup
+ 34.51%  147.394      1 Template:Google_Inc.
+ 34.29%  146.435      2 Template:Navbox
+ 25.32%  108.130     67 Template:仮リンク
+ 24.86%  106.181      1 Template:Reflist
+ 18.39%   78.525     15 Template:Cite_web
+ 18.16%   77.559      1 Template:Infobox_人物
+ 12.34%   52.710      1 Template:Infobox2
+  6.90%   29.451     20 Template:Citation/showdate
+-->
+<!-- Saved in parser cache with key jawiki:pcache:idhash:3521317-0!canonical and timestamp 20230211104044 and revision id 93653174. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
+<div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=サンダー・ピチャイ&amp;oldid=93653174">https://ja.wikipedia.org/w/index.php?title=サンダー・ピチャイ&amp;oldid=93653174</a>」から取得</div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%E7%89%B9%E5%88%A5:%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA" title="特別:カテゴリ">カテゴリ</a>: <ul><li><a href="/wiki/Category:Google%E3%81%AE%E4%BA%BA%E7%89%A9" title="Category:Googleの人物">Googleの人物</a></li><li><a href="/wiki/Category:%E3%82%A4%E3%83%B3%E3%83%89%E5%87%BA%E8%BA%AB%E3%81%AE%E4%BA%BA%E7%89%A9" title="Category:インド出身の人物">インド出身の人物</a></li><li><a href="/wiki/Category:1972%E5%B9%B4%E7%94%9F" title="Category:1972年生">1972年生</a></li><li><a href="/wiki/Category:%E5%AD%98%E5%91%BD%E4%BA%BA%E7%89%A9" title="Category:存命人物">存命人物</a></li><li><a href="/wiki/Category:%E6%9C%80%E9%AB%98%E7%B5%8C%E5%96%B6%E8%B2%AC%E4%BB%BB%E8%80%85" title="Category:最高経営責任者">最高経営責任者</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">隠しカテゴリ: <ul><li><a href="/wiki/Category:%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E4%BA%BA%E7%89%A9%E4%BC%9D%E9%A0%85%E7%9B%AE" title="Category:プロジェクト人物伝項目">プロジェクト人物伝項目</a></li><li><a href="/wiki/Category:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E3%81%AA%E3%81%84%E5%85%AC%E5%BC%8F%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88" title="Category:ウィキデータにない公式ウェブサイト">ウィキデータにない公式ウェブサイト</a></li><li><a href="/wiki/Category:VIAF%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:VIAF識別子が指定されている記事">VIAF識別子が指定されている記事</a></li><li><a href="/wiki/Category:WORLDCATID%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:WORLDCATID識別子が指定されている記事">WORLDCATID識別子が指定されている記事</a></li><li><a href="/wiki/Category:LCCN%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:LCCN識別子が指定されている記事">LCCN識別子が指定されている記事</a></li><li><a href="/wiki/Category:PLWABN%E8%AD%98%E5%88%A5%E5%AD%90%E3%81%8C%E6%8C%87%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E8%A8%98%E4%BA%8B" title="Category:PLWABN識別子が指定されている記事">PLWABN識別子が指定されている記事</a></li></ul></div></div>
+</div>
+</main>
+</div>
+<div class="mw-footer-container">
+<footer class="mw-footer" id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> 最終更新 2023年1月31日 (火) 14:17 （日時は<a href="/wiki/%E7%89%B9%E5%88%A5:%E5%80%8B%E4%BA%BA%E8%A8%AD%E5%AE%9A#mw-prefsection-rendering" title="特別:個人設定">個人設定</a>で未設定ならば<a href="/wiki/%E5%8D%94%E5%AE%9A%E4%B8%96%E7%95%8C%E6%99%82" title="協定世界時">UTC</a>）。</li>
+<li id="footer-info-copyright">テキストは<a href="//ja.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">クリエイティブ・コモンズ 表示-継承ライセンス</a>の下で利用可能です。追加の条件が適用される場合があります。詳細は<a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ja">利用規約</a>を参照してください。</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ja">プライバシー・ポリシー</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6">ウィキペディアについて</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:%E5%85%8D%E8%B2%AC%E4%BA%8B%E9%A0%85">免責事項</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ja.m.wikipedia.org/w/index.php?title=%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4&amp;mobileaction=toggle_view_mobile">モバイルビュー</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">開発者</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ja.wikipedia.org">統計</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookieに関する声明</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/></a></li>
+<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/></a></li>
+</ul>
+</footer>
+</div>
+</div>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.410","walltime":"0.537","ppvisitednodes":{"value":10381,"limit":1000000},"postexpandincludesize":{"value":304416,"limit":2097152},"templateargumentsize":{"value":18983,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":72,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10873,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  427.088      1 -total"," 35.63%  152.189      6 Template:Navbox_subgroup"," 34.51%  147.394      1 Template:Google_Inc."," 34.29%  146.435      2 Template:Navbox"," 25.32%  108.130     67 Template:仮リンク"," 24.86%  106.181      1 Template:Reflist"," 18.39%   78.525     15 Template:Cite_web"," 18.16%   77.559      1 Template:Infobox_人物"," 12.34%   52.710      1 Template:Infobox2","  6.90%   29.451     20 Template:Citation/showdate"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":5433093,"limit":52428800}},"cachereport":{"origin":"mw2367","timestamp":"20230211104044","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u30b5\u30f3\u30c0\u30fc\u30fb\u30d4\u30c1\u30e3\u30a4","url":"https:\/\/ja.wikipedia.org\/wiki\/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3503829","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3503829","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-11-19T18:01:22Z","dateModified":"2023-01-31T14:17:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/Sundar_Pichai_%28cropped%29.jpg","headline":"\u5b9f\u696d\u5bb6"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u30b5\u30f3\u30c0\u30fc\u30fb\u30d4\u30c1\u30e3\u30a4","url":"https:\/\/ja.wikipedia.org\/wiki\/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB%E3%83%94%E3%83%81%E3%83%A3%E3%82%A4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3503829","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3503829","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-11-19T18:01:22Z","dateModified":"2023-01-31T14:17:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/Sundar_Pichai_%28cropped%29.jpg","headline":"\u5b9f\u696d\u5bb6"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw2359"});});</script>
+</body>
+</html>
