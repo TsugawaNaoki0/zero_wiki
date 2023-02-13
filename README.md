@@ -25,6 +25,6 @@ git clone https://github.com/TsugawaNaoki0/zero_wiki.git
 
 mv zero_wiki/* ./
 
-chmod 666 data/quake_data.txt
+chmod 666 data/*
 
 while true; do python3 zeroWiki.py; sleep 60s; done
