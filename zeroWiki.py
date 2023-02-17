@@ -63,9 +63,8 @@ class zeroWiki_class():
                 requests.post(api_url, headers=TOKEN_dic, data=send_dic)
 
             f.close()
-        return sample
 
 if __name__ == '__main__':
     aaa = zeroWiki_class()
     bbb = aaa.zeroWiki()
-    print(bbb)
+    # print(bbb)
