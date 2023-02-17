@@ -17,12 +17,9 @@
      <br>
      <br>
        <div class="middle_main">
-         オバケ(0)<br><br>
-         英美(G)<br><br>
-         料理人(Ap)<br><br>
-         記号(F)<br><br>
-         聖職者の村(Am)<br><br>
-         絶対的な真理(M)<br><br>
+         <?php
+           echo shell_exec("export LANG=ja_JP.UTF-8; python3 zeroWiki.py ");
+          ?>
        </div>
      </center>
      <br>

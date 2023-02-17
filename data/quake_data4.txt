@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>マーク・ザッカーバーグ - Wikipedia</title>
-<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"000f9a5b-5ccd-46d2-8c8a-818ff42cd261","wgCSPNonce":false,
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"8101c471-c910-48db-a302-d2c299e2d88f","wgCSPNonce":false,
 "wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"マーク・ザッカーバーグ","wgTitle":"マーク・ザッカーバーグ","wgCurRevisionId":93655570,"wgRevisionId":93655570,"wgArticleId":2467492,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchiveテンプレートのウェイバックリンク","プロジェクト人物伝項目","ISNI識別子が指定されている記事","VIAF識別子が指定されている記事","WORLDCATID識別子が指定されている記事","BIBSYS識別子が指定されている記事","BNE識別子が指定されている記事","BNF識別子が指定されている記事","CANTICN識別子が指定されている記事","GND識別子が指定されている記事","J9U識別子が指定されている記事","LCCN識別子が指定されている記事","LNB識別子が指定されている記事",
 "NDL識別子が指定されている記事","NKC識別子が指定されている記事","NSK識別子が指定されている記事","NTA識別子が指定されている記事","PLWABN識別子が指定されている記事","SELIBR識別子が指定されている記事","FAST識別子が指定されている記事","SUDOC識別子が指定されている記事","マーク・ザッカーバーグ","アメリカ合衆国のプログラマ","アメリカ合衆国の実業家","Facebook","アメリカ合衆国の無神論者","タイム誌が選ぶパーソン・オブ・ザ・イヤー","東欧ユダヤ系アメリカ人","ドイツユダヤ系アメリカ人","ポーランド系アメリカ人","ユダヤ人の無神論者","ニューヨーク州ホワイト・プレインズ出身の人物","1984年生","存命人物"],"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"マーク・ザッカーバーグ","wgRelevantArticleId":2467492,
 "wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"日本語","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q36215","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":
@@ -767,38 +767,38 @@
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw2384
-Cached time: 20230212034733
+Parsed by mw2377
+Cached time: 20230215181740
 Cache expiry: 3600
 Reduced expiry: true
 Complications: [show‐toc]
-CPU time usage: 0.378 seconds
-Real time usage: 0.517 seconds
-Preprocessor visited node count: 7792/1000000
+CPU time usage: 0.371 seconds
+Real time usage: 0.580 seconds
+Preprocessor visited node count: 7834/1000000
 Post‐expand include size: 143266/2097152 bytes
 Template argument size: 14824/2097152 bytes
 Highest expansion depth: 28/100
 Expensive parser function count: 37/500
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 12374/5000000 bytes
-Lua time usage: 0.120/10.000 seconds
+Lua time usage: 0.117/10.000 seconds
 Lua memory usage: 5937735/52428800 bytes
 Number of Wikibase entities loaded: 2/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  411.260      1 -total
- 31.12%  127.987      1 Template:Infobox_人物
- 23.50%   96.645      1 Template:Infobox2
- 21.63%   88.967      2 Template:Reflist
- 11.18%   45.997      1 Template:Infobox_person/height
- 10.72%   44.105      1 Template:Infobox_person/height/locate
- 10.62%   43.675      2 Template:Navbox
- 10.30%   42.358      1 Template:Infobox_person/height/switch
-  8.81%   36.217      1 Template:Normdaten
-  7.41%   30.457      1 Template:Facebook_Navbox
+100.00%  475.243      1 -total
+ 32.09%  152.527      2 Template:Reflist
+ 26.55%  126.172      1 Template:Infobox_人物
+ 20.21%   96.063      1 Template:Infobox2
+ 18.79%   89.291      5 Template:Cite_web
+ 15.27%   72.564      6 Template:ISO639言語名
+  9.82%   46.671      2 Template:Navbox
+  9.46%   44.942      1 Template:Infobox_person/height
+  9.08%   43.166      1 Template:Infobox_person/height/locate
+  8.73%   41.494      1 Template:Infobox_person/height/switch
 -->
-<!-- Saved in parser cache with key jawiki:pcache:idhash:2467492-0!canonical and timestamp 20230212034733 and revision id 93655570. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key jawiki:pcache:idhash:2467492-0!canonical and timestamp 20230215181740 and revision id 93655570. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
 <div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=マーク・ザッカーバーグ&amp;oldid=93655570">https://ja.wikipedia.org/w/index.php?title=マーク・ザッカーバーグ&amp;oldid=93655570</a>」から取得</div></div>
@@ -829,8 +829,8 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 </div>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.378","walltime":"0.517","ppvisitednodes":{"value":7792,"limit":1000000},"postexpandincludesize":{"value":143266,"limit":2097152},"templateargumentsize":{"value":14824,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":37,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12374,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  411.260      1 -total"," 31.12%  127.987      1 Template:Infobox_人物"," 23.50%   96.645      1 Template:Infobox2"," 21.63%   88.967      2 Template:Reflist"," 11.18%   45.997      1 Template:Infobox_person/height"," 10.72%   44.105      1 Template:Infobox_person/height/locate"," 10.62%   43.675      2 Template:Navbox"," 10.30%   42.358      1 Template:Infobox_person/height/switch","  8.81%   36.217      1 Template:Normdaten","  7.41%   30.457      1 Template:Facebook_Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":5937735,"limit":52428800}},"cachereport":{"origin":"mw2384","timestamp":"20230212034733","ttl":3600,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.371","walltime":"0.580","ppvisitednodes":{"value":7834,"limit":1000000},"postexpandincludesize":{"value":143266,"limit":2097152},"templateargumentsize":{"value":14824,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":37,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":12374,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  475.243      1 -total"," 32.09%  152.527      2 Template:Reflist"," 26.55%  126.172      1 Template:Infobox_人物"," 20.21%   96.063      1 Template:Infobox2"," 18.79%   89.291      5 Template:Cite_web"," 15.27%   72.564      6 Template:ISO639言語名","  9.82%   46.671      2 Template:Navbox","  9.46%   44.942      1 Template:Infobox_person/height","  9.08%   43.166      1 Template:Infobox_person/height/locate","  8.73%   41.494      1 Template:Infobox_person/height/switch"]},"scribunto":{"limitreport-timeusage":{"value":"0.117","limit":"10.000"},"limitreport-memusage":{"value":5937735,"limit":52428800}},"cachereport":{"origin":"mw2377","timestamp":"20230215181740","ttl":3600,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u30de\u30fc\u30af\u30fb\u30b6\u30c3\u30ab\u30fc\u30d0\u30fc\u30b0","url":"https:\/\/ja.wikipedia.org\/wiki\/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q36215","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q36215","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-31T19:04:44Z","dateModified":"2023-01-31T17:58:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/Mark_Zuckerberg_F8_2018_Keynote_%28cropped_2%29.jpg","headline":"\u30a2\u30e1\u30ea\u30ab\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4f01\u696d\u5bb6"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u30de\u30fc\u30af\u30fb\u30b6\u30c3\u30ab\u30fc\u30d0\u30fc\u30b0","url":"https:\/\/ja.wikipedia.org\/wiki\/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q36215","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q36215","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-31T19:04:44Z","dateModified":"2023-01-31T17:58:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/14\/Mark_Zuckerberg_F8_2018_Keynote_%28cropped_2%29.jpg","headline":"\u30a2\u30e1\u30ea\u30ab\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u4f01\u696d\u5bb6"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":138,"wgHostname":"mw2377"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":717,"wgHostname":"mw2377"});});</script>
 </body>
 </html>
