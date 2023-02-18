@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>Apple - Wikipedia</title>
-<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"a54a0eb1-d411-4e49-a4c6-401d80a9ec8b","wgCSPNonce":false,
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"1010bc72-2d1c-4c2d-a15a-a5e296d6e1e5","wgCSPNonce":false,
 "wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Apple","wgTitle":"Apple","wgCurRevisionId":93892890,"wgRevisionId":93892890,"wgArticleId":14706,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ウィキデータにない座標","出典を必要とする記述のある記事/2021年6月","出典を必要とする記事/2019年7月","出典を必要とする記事/2022年7月","日本語版記事がリダイレクトの仮リンクを含む記事","出典を必要とする記事/2021年2月","百科事典的でない内容を含む記事","ウィキデータにない法人番号","出典を必要とする記述のある記事/2020年9月","企業関連のスタブ","ISNI識別子が指定されている記事","VIAF識別子が指定されている記事","WORLDCATID識別子が指定されている記事","BIBSYS識別子が指定されている記事",
 "BNF識別子が指定されている記事","BNMM識別子が指定されている記事","GND識別子が指定されている記事","J9U識別子が指定されている記事","LCCN識別子が指定されている記事","LNB識別子が指定されている記事","NDL識別子が指定されている記事","NKC識別子が指定されている記事","NLA識別子が指定されている記事","NLG識別子が指定されている記事","NSK識別子が指定されている記事","SELIBR識別子が指定されている記事","ULAN識別子が指定されている記事","CINII識別子が指定されている記事","MusicBrainz識別子が指定されている記事","MusicBrainzレーベル識別子が指定されている記事","RERO識別子が指定されている記事","SNAC-ID識別子が指定されている記事","SUDOC識別子が指定されている記事","Apple","スティーブ・ジョブズ","コンピュータハードウエア企業",
 "アメリカ合衆国の多国籍企業","アメリカ合衆国のブランド","アメリカ合衆国の携帯電話メーカー","アメリカ合衆国のコンピュータ企業","ロンドン証券取引所上場企業","フランクフルト証券取引所上場企業","NASDAQ上場企業","S\u0026P 500","クパチーノの企業","1976年設立の企業"],"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"Apple","wgRelevantArticleId":14706,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":200000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":
@@ -3059,38 +3059,38 @@ Apple Inc.の<a href="/wiki/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw2383
-Cached time: 20230217031734
+Parsed by mw2390
+Cached time: 20230217222329
 Cache expiry: 1814400
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 2.747 seconds
-Real time usage: 3.117 seconds
-Preprocessor visited node count: 125734/1000000
+CPU time usage: 2.746 seconds
+Real time usage: 3.139 seconds
+Preprocessor visited node count: 125684/1000000
 Post‐expand include size: 1181899/2097152 bytes
 Template argument size: 296748/2097152 bytes
 Highest expansion depth: 34/100
 Expensive parser function count: 105/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 255725/5000000 bytes
-Lua time usage: 0.679/10.000 seconds
-Lua memory usage: 13746751/52428800 bytes
+Lua time usage: 0.690/10.000 seconds
+Lua memory usage: 13808739/52428800 bytes
 Number of Wikibase entities loaded: 2/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 2463.517      1 -total
- 48.07% 1184.332      2 Template:Reflist
- 28.39%  699.515    156 Template:Cite_web
- 14.92%  367.554     42 Template:Citation/core
- 11.80%  290.751     14 Template:Navbox
- 11.32%  278.806     39 Template:Cite_news
- 10.98%  270.589    194 Template:Accessdate
-  9.89%  243.531      2 Template:基礎情報_会社
-  9.73%  239.696      2 Template:Infobox
-  9.11%  224.340    194 Template:Accessdate/core
+100.00% 2505.626      1 -total
+ 47.70% 1195.197      2 Template:Reflist
+ 28.53%  714.801    156 Template:Cite_web
+ 14.56%  364.893     42 Template:Citation/core
+ 11.77%  295.010     14 Template:Navbox
+ 10.98%  275.102     39 Template:Cite_news
+ 10.94%  274.170    194 Template:Accessdate
+  9.82%  246.034      2 Template:基礎情報_会社
+  9.70%  243.059      2 Template:Infobox
+  9.06%  227.126    194 Template:Accessdate/core
 -->
-<!-- Saved in parser cache with key jawiki:pcache:idhash:14706-0!canonical and timestamp 20230217031731 and revision id 93892890. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key jawiki:pcache:idhash:14706-0!canonical and timestamp 20230217222326 and revision id 93892890. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
 <div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=Apple&amp;oldid=93892890">https://ja.wikipedia.org/w/index.php?title=Apple&amp;oldid=93892890</a>」から取得</div></div>
@@ -3121,8 +3121,8 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 </div>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.747","walltime":"3.117","ppvisitednodes":{"value":125734,"limit":1000000},"postexpandincludesize":{"value":1181899,"limit":2097152},"templateargumentsize":{"value":296748,"limit":2097152},"expansiondepth":{"value":34,"limit":100},"expensivefunctioncount":{"value":105,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":255725,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 2463.517      1 -total"," 48.07% 1184.332      2 Template:Reflist"," 28.39%  699.515    156 Template:Cite_web"," 14.92%  367.554     42 Template:Citation/core"," 11.80%  290.751     14 Template:Navbox"," 11.32%  278.806     39 Template:Cite_news"," 10.98%  270.589    194 Template:Accessdate","  9.89%  243.531      2 Template:基礎情報_会社","  9.73%  239.696      2 Template:Infobox","  9.11%  224.340    194 Template:Accessdate/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.679","limit":"10.000"},"limitreport-memusage":{"value":13746751,"limit":52428800}},"cachereport":{"origin":"mw2383","timestamp":"20230217031734","ttl":1814400,"transientcontent":false}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.746","walltime":"3.139","ppvisitednodes":{"value":125684,"limit":1000000},"postexpandincludesize":{"value":1181899,"limit":2097152},"templateargumentsize":{"value":296748,"limit":2097152},"expansiondepth":{"value":34,"limit":100},"expensivefunctioncount":{"value":105,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":255725,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 2505.626      1 -total"," 47.70% 1195.197      2 Template:Reflist"," 28.53%  714.801    156 Template:Cite_web"," 14.56%  364.893     42 Template:Citation/core"," 11.77%  295.010     14 Template:Navbox"," 10.98%  275.102     39 Template:Cite_news"," 10.94%  274.170    194 Template:Accessdate","  9.82%  246.034      2 Template:基礎情報_会社","  9.70%  243.059      2 Template:Infobox","  9.06%  227.126    194 Template:Accessdate/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.690","limit":"10.000"},"limitreport-memusage":{"value":13808739,"limit":52428800}},"cachereport":{"origin":"mw2390","timestamp":"20230217222329","ttl":1814400,"transientcontent":false}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Apple","url":"https:\/\/ja.wikipedia.org\/wiki\/Apple","sameAs":"http:\/\/www.wikidata.org\/entity\/Q312","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q312","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-02-18T06:34:27Z","dateModified":"2023-02-16T09:31:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/eb\/Apple_park_cupertino_2019.jpg","headline":"\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u591a\u56fd\u7c4d\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u4f01\u696d"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Apple","url":"https:\/\/ja.wikipedia.org\/wiki\/Apple","sameAs":"http:\/\/www.wikidata.org\/entity\/Q312","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q312","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-02-18T06:34:27Z","dateModified":"2023-02-16T09:31:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/eb\/Apple_park_cupertino_2019.jpg","headline":"\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u591a\u56fd\u7c4d\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u4f01\u696d"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw2339"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":131,"wgHostname":"mw2336"});});</script>
 </body>
 </html>

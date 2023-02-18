@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <title>ジェフ・ベゾス - Wikipedia</title>
-<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"0b2b41d7-43de-4840-9fc2-233698c380eb","wgCSPNonce":false,
+<script>document.documentElement.className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-page-tools-disabled vector-feature-page-tools-pinned-disabled vector-feature-main-menu-pinned-disabled vector-feature-limited-width-enabled vector-feature-limited-width-content-enabled";(function(){var cookie=document.cookie.match(/(?:^|; )jawikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"6a4f428c-7263-4ffa-8d9e-d96075a1c986","wgCSPNonce":false,
 "wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"ジェフ・ベゾス","wgTitle":"ジェフ・ベゾス","wgCurRevisionId":93897000,"wgRevisionId":93897000,"wgArticleId":611956,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["プロジェクト人物伝項目","無効な出典が含まれている記事/2020年","書きかけの節のある項目","ISNI識別子が指定されている記事","VIAF識別子が指定されている記事","WORLDCATID識別子が指定されている記事","BIBSYS識別子が指定されている記事","BNF識別子が指定されている記事","GND識別子が指定されている記事","J9U識別子が指定されている記事","LCCN識別子が指定されている記事","LNB識別子が指定されている記事","NDL識別子が指定されている記事","NKC識別子が指定されている記事",
 "NLK識別子が指定されている記事","PLWABN識別子が指定されている記事","FAST識別子が指定されている記事","RERO識別子が指定されている記事","SUDOC識別子が指定されている記事","ジェフ・ベゾス","アメリカ合衆国の実業家","アメリカ芸術科学アカデミー会員","タイム誌が選ぶパーソン・オブ・ザ・イヤー","Amazon.comの人物","ワシントン・ポストの人物","プリンストン大学出身の人物","アルバカーキ出身の人物","宇宙旅行をした人物","1964年生","存命人物","最高経営責任者"],"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"ジェフ・ベゾス","wgRelevantArticleId":611956,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},
 "wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":80000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"日本語","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q312556","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"skins.vector.user.styles":"ready","ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":
@@ -1371,38 +1371,38 @@ Amazon創業から3年後に、ベゾスは<a href="/wiki/%E6%A0%AA%E5%BC%8F%E5%
 </div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw2363
-Cached time: 20230217025513
+Parsed by mw2310
+Cached time: 20230217211647
 Cache expiry: 3600
 Reduced expiry: true
 Complications: [show‐toc]
-CPU time usage: 1.333 seconds
-Real time usage: 1.532 seconds
-Preprocessor visited node count: 87151/1000000
+CPU time usage: 1.262 seconds
+Real time usage: 1.446 seconds
+Preprocessor visited node count: 87125/1000000
 Post‐expand include size: 582355/2097152 bytes
 Template argument size: 194903/2097152 bytes
 Highest expansion depth: 33/100
 Expensive parser function count: 36/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 129520/5000000 bytes
-Lua time usage: 0.213/10.000 seconds
+Lua time usage: 0.203/10.000 seconds
 Lua memory usage: 7324615/52428800 bytes
 Number of Wikibase entities loaded: 2/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00% 1316.203      1 -total
- 56.07%  738.053      1 Template:Reflist
- 38.78%  510.432    109 Template:Cite_web
- 15.86%  208.789    126 Template:Accessdate
- 13.97%  183.851    226 Template:ISO_dateJA
- 13.62%  179.262    116 Template:Citation/showdate
- 13.42%  176.580    126 Template:Accessdate/core
- 13.04%  171.650     10 Template:Cite_book
- 11.49%  151.268      9 Template:Citation/core-ja-jp
- 10.98%  144.502     18 Template:Citation/core
+100.00% 1241.164      1 -total
+ 53.37%  662.431      1 Template:Reflist
+ 36.84%  457.233    109 Template:Cite_web
+ 14.84%  184.245    126 Template:Accessdate
+ 13.35%  165.728    226 Template:ISO_dateJA
+ 13.20%  163.833     10 Template:Cite_book
+ 12.90%  160.079    116 Template:Citation/showdate
+ 12.54%  155.653    126 Template:Accessdate/core
+ 11.96%  148.417      9 Template:Citation/core-ja-jp
+ 10.56%  131.014      1 Template:Infobox_人物
 -->
-<!-- Saved in parser cache with key jawiki:pcache:idhash:611956-0!canonical and timestamp 20230217025511 and revision id 93897000. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key jawiki:pcache:idhash:611956-0!canonical and timestamp 20230217211645 and revision id 93897000. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img alt="" height="1" src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript>
 <div class="printfooter" data-nosnippet="">「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=ジェフ・ベゾス&amp;oldid=93897000">https://ja.wikipedia.org/w/index.php?title=ジェフ・ベゾス&amp;oldid=93897000</a>」から取得</div></div>
@@ -1433,8 +1433,8 @@ Transclusion expansion time report (%,ms,calls,template)
 </div>
 </div>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.333","walltime":"1.532","ppvisitednodes":{"value":87151,"limit":1000000},"postexpandincludesize":{"value":582355,"limit":2097152},"templateargumentsize":{"value":194903,"limit":2097152},"expansiondepth":{"value":33,"limit":100},"expensivefunctioncount":{"value":36,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":129520,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1316.203      1 -total"," 56.07%  738.053      1 Template:Reflist"," 38.78%  510.432    109 Template:Cite_web"," 15.86%  208.789    126 Template:Accessdate"," 13.97%  183.851    226 Template:ISO_dateJA"," 13.62%  179.262    116 Template:Citation/showdate"," 13.42%  176.580    126 Template:Accessdate/core"," 13.04%  171.650     10 Template:Cite_book"," 11.49%  151.268      9 Template:Citation/core-ja-jp"," 10.98%  144.502     18 Template:Citation/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":7324615,"limit":52428800}},"cachereport":{"origin":"mw2363","timestamp":"20230217025513","ttl":3600,"transientcontent":true}}});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.262","walltime":"1.446","ppvisitednodes":{"value":87125,"limit":1000000},"postexpandincludesize":{"value":582355,"limit":2097152},"templateargumentsize":{"value":194903,"limit":2097152},"expansiondepth":{"value":33,"limit":100},"expensivefunctioncount":{"value":36,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":129520,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1241.164      1 -total"," 53.37%  662.431      1 Template:Reflist"," 36.84%  457.233    109 Template:Cite_web"," 14.84%  184.245    126 Template:Accessdate"," 13.35%  165.728    226 Template:ISO_dateJA"," 13.20%  163.833     10 Template:Cite_book"," 12.90%  160.079    116 Template:Citation/showdate"," 12.54%  155.653    126 Template:Accessdate/core"," 11.96%  148.417      9 Template:Citation/core-ja-jp"," 10.56%  131.014      1 Template:Infobox_人物"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":7324615,"limit":52428800}},"cachereport":{"origin":"mw2310","timestamp":"20230217211647","ttl":3600,"transientcontent":true}}});});</script>
 <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u30b8\u30a7\u30d5\u30fb\u30d9\u30be\u30b9","url":"https:\/\/ja.wikipedia.org\/wiki\/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%99%E3%82%BE%E3%82%B9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q312556","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q312556","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-21T09:18:22Z","dateModified":"2023-02-16T14:52:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Jeff_Bezos%27_iconic_laugh.jpg","headline":"\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u5b9f\u696d\u5bb6"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u30b8\u30a7\u30d5\u30fb\u30d9\u30be\u30b9","url":"https:\/\/ja.wikipedia.org\/wiki\/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%99%E3%82%BE%E3%82%B9","sameAs":"http:\/\/www.wikidata.org\/entity\/Q312556","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q312556","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-21T09:18:22Z","dateModified":"2023-02-16T14:52:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6b\/Jeff_Bezos%27_iconic_laugh.jpg","headline":"\u30a2\u30e1\u30ea\u30ab\u306e\u5927\u5b9f\u696d\u5bb6"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1706,"wgHostname":"mw2363"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1626,"wgHostname":"mw2310"});});</script>
 </body>
 </html>
