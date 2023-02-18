@@ -23,8 +23,6 @@ cd html
 
 git clone https://github.com/TsugawaNaoki0/zero_wiki.git
 
-mv zero_wiki/* ./
+chmod 777 zero_wiki/data/*
 
-chmod 777 data/*
-
-while true; do python3 zeroWiki.py; sleep 60s; done
+while true; do python3 zero_wiki/zeroWiki.py; sleep 60s; done
