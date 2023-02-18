@@ -21,10 +21,10 @@ mkdir html
 
 cd html
 
-cd zero_wiki
-
 git clone https://github.com/TsugawaNaoki0/zero_wiki.git
 
 chmod 777 zero_wiki/data/*
 
-while true; do python3 zero_wiki/zeroWiki.py; sleep 60s; done
+cd zero_wiki
+
+while true; do python3 zeroWiki.py; sleep 60s; done
