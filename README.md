@@ -21,6 +21,8 @@ mkdir html
 
 cd html
 
+cd zero_wiki
+
 git clone https://github.com/TsugawaNaoki0/zero_wiki.git
 
 chmod 777 zero_wiki/data/*
