@@ -33,7 +33,7 @@ class zeroWiki_class():
             # print(url)
             print(str(box[round][1]) + "<br><br>")
 
-            path = "./zero_wiki/data/quake_data" + str(round+1) + ".txt"
+            path = "./data/quake_data" + str(round+1) + ".txt"
 
             html = urllib.request.urlopen(url)
 
